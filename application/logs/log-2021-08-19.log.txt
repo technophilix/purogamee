@@ -1,0 +1,39 @@
+INFO - 2021-08-19 09:47:30 --> Config Class Initialized
+INFO - 2021-08-19 09:47:30 --> Hooks Class Initialized
+DEBUG - 2021-08-19 09:47:30 --> UTF-8 Support Enabled
+INFO - 2021-08-19 09:47:30 --> Utf8 Class Initialized
+INFO - 2021-08-19 09:47:30 --> URI Class Initialized
+DEBUG - 2021-08-19 09:47:30 --> No URI present. Default controller set.
+INFO - 2021-08-19 09:47:30 --> Router Class Initialized
+INFO - 2021-08-19 09:47:30 --> Output Class Initialized
+INFO - 2021-08-19 09:47:30 --> Security Class Initialized
+DEBUG - 2021-08-19 09:47:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-19 09:47:30 --> Input Class Initialized
+INFO - 2021-08-19 09:47:30 --> Language Class Initialized
+INFO - 2021-08-19 09:47:30 --> Loader Class Initialized
+INFO - 2021-08-19 09:47:30 --> Helper loaded: url_helper
+INFO - 2021-08-19 09:47:30 --> Helper loaded: file_helper
+INFO - 2021-08-19 09:47:30 --> Helper loaded: useful_helper
+INFO - 2021-08-19 09:47:31 --> Helper loaded: date_helper
+INFO - 2021-08-19 09:47:31 --> Database Driver Class Initialized
+INFO - 2021-08-19 09:47:31 --> Email Class Initialized
+INFO - 2021-08-19 09:47:31 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-19 09:47:31 --> Helper loaded: form_helper
+INFO - 2021-08-19 09:47:31 --> Form Validation Class Initialized
+INFO - 2021-08-19 09:47:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-19 09:47:31 --> Pagination Class Initialized
+INFO - 2021-08-19 09:47:31 --> Model "Backoffice_M" initialized
+INFO - 2021-08-19 09:47:31 --> Model "Loginrecords" initialized
+INFO - 2021-08-19 09:47:31 --> Model "Category" initialized
+INFO - 2021-08-19 09:47:31 --> Model "Media" initialized
+INFO - 2021-08-19 09:47:31 --> Model "Post" initialized
+INFO - 2021-08-19 09:47:31 --> Model "Tags" initialized
+INFO - 2021-08-19 09:47:31 --> Model "Comments" initialized
+INFO - 2021-08-19 09:47:31 --> Model "Subscription" initialized
+INFO - 2021-08-19 09:47:31 --> Model "Site" initialized
+INFO - 2021-08-19 09:47:31 --> Controller Class Initialized
+INFO - 2021-08-19 09:47:32 --> File loaded: C:\xampp\htdocs\vabna\application\views\header.php
+INFO - 2021-08-19 09:47:32 --> File loaded: C:\xampp\htdocs\vabna\application\views\footer.php
+INFO - 2021-08-19 09:47:32 --> File loaded: C:\xampp\htdocs\vabna\application\views\welcome_message.php
+INFO - 2021-08-19 09:47:32 --> Final output sent to browser
+DEBUG - 2021-08-19 09:47:32 --> Total execution time: 1.8882

@@ -1,0 +1,793 @@
+INFO - 2021-08-01 19:52:34 --> Config Class Initialized
+INFO - 2021-08-01 19:52:34 --> Hooks Class Initialized
+DEBUG - 2021-08-01 19:52:34 --> UTF-8 Support Enabled
+INFO - 2021-08-01 19:52:34 --> Utf8 Class Initialized
+INFO - 2021-08-01 19:52:34 --> URI Class Initialized
+DEBUG - 2021-08-01 19:52:34 --> No URI present. Default controller set.
+INFO - 2021-08-01 19:52:34 --> Router Class Initialized
+INFO - 2021-08-01 19:52:34 --> Output Class Initialized
+INFO - 2021-08-01 19:52:34 --> Security Class Initialized
+DEBUG - 2021-08-01 19:52:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 19:52:34 --> Input Class Initialized
+INFO - 2021-08-01 19:52:34 --> Language Class Initialized
+INFO - 2021-08-01 19:52:34 --> Loader Class Initialized
+INFO - 2021-08-01 19:52:34 --> Helper loaded: url_helper
+INFO - 2021-08-01 19:52:34 --> Helper loaded: file_helper
+INFO - 2021-08-01 19:52:34 --> Helper loaded: useful_helper
+INFO - 2021-08-01 19:52:34 --> Helper loaded: date_helper
+INFO - 2021-08-01 19:52:34 --> Database Driver Class Initialized
+INFO - 2021-08-01 19:52:34 --> Email Class Initialized
+INFO - 2021-08-01 19:52:34 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 19:52:34 --> Helper loaded: form_helper
+INFO - 2021-08-01 19:52:34 --> Form Validation Class Initialized
+INFO - 2021-08-01 19:52:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 19:52:34 --> Pagination Class Initialized
+INFO - 2021-08-01 19:52:34 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 19:52:34 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 19:52:34 --> Model "Category" initialized
+INFO - 2021-08-01 19:52:34 --> Model "Media" initialized
+INFO - 2021-08-01 19:52:34 --> Model "Post" initialized
+INFO - 2021-08-01 19:52:34 --> Model "Tags" initialized
+INFO - 2021-08-01 19:52:34 --> Model "Comments" initialized
+INFO - 2021-08-01 19:52:34 --> Model "Subscription" initialized
+INFO - 2021-08-01 19:52:34 --> Model "Site" initialized
+INFO - 2021-08-01 19:52:34 --> Controller Class Initialized
+INFO - 2021-08-01 19:52:34 --> File loaded: C:\xampp\htdocs\vabna\application\views\header.php
+INFO - 2021-08-01 19:52:34 --> File loaded: C:\xampp\htdocs\vabna\application\views\footer.php
+INFO - 2021-08-01 19:52:34 --> File loaded: C:\xampp\htdocs\vabna\application\views\welcome_message.php
+INFO - 2021-08-01 19:52:34 --> Final output sent to browser
+DEBUG - 2021-08-01 19:52:34 --> Total execution time: 0.1330
+INFO - 2021-08-01 19:54:23 --> Config Class Initialized
+INFO - 2021-08-01 19:54:23 --> Hooks Class Initialized
+DEBUG - 2021-08-01 19:54:23 --> UTF-8 Support Enabled
+INFO - 2021-08-01 19:54:23 --> Utf8 Class Initialized
+INFO - 2021-08-01 19:54:23 --> URI Class Initialized
+DEBUG - 2021-08-01 19:54:23 --> No URI present. Default controller set.
+INFO - 2021-08-01 19:54:23 --> Router Class Initialized
+INFO - 2021-08-01 19:54:23 --> Output Class Initialized
+INFO - 2021-08-01 19:54:23 --> Security Class Initialized
+DEBUG - 2021-08-01 19:54:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 19:54:23 --> Input Class Initialized
+INFO - 2021-08-01 19:54:23 --> Language Class Initialized
+INFO - 2021-08-01 19:54:23 --> Loader Class Initialized
+INFO - 2021-08-01 19:54:23 --> Helper loaded: url_helper
+INFO - 2021-08-01 19:54:23 --> Helper loaded: file_helper
+INFO - 2021-08-01 19:54:23 --> Helper loaded: useful_helper
+INFO - 2021-08-01 19:54:23 --> Helper loaded: date_helper
+INFO - 2021-08-01 19:54:23 --> Database Driver Class Initialized
+INFO - 2021-08-01 19:54:23 --> Email Class Initialized
+INFO - 2021-08-01 19:54:23 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 19:54:23 --> Helper loaded: form_helper
+INFO - 2021-08-01 19:54:23 --> Form Validation Class Initialized
+INFO - 2021-08-01 19:54:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 19:54:23 --> Pagination Class Initialized
+INFO - 2021-08-01 19:54:23 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 19:54:23 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 19:54:23 --> Model "Category" initialized
+INFO - 2021-08-01 19:54:23 --> Model "Media" initialized
+INFO - 2021-08-01 19:54:23 --> Model "Post" initialized
+INFO - 2021-08-01 19:54:23 --> Model "Tags" initialized
+INFO - 2021-08-01 19:54:23 --> Model "Comments" initialized
+INFO - 2021-08-01 19:54:23 --> Model "Subscription" initialized
+INFO - 2021-08-01 19:54:23 --> Model "Site" initialized
+INFO - 2021-08-01 19:54:23 --> Controller Class Initialized
+INFO - 2021-08-01 19:54:23 --> File loaded: C:\xampp\htdocs\vabna\application\views\header.php
+INFO - 2021-08-01 19:54:23 --> File loaded: C:\xampp\htdocs\vabna\application\views\footer.php
+INFO - 2021-08-01 19:54:23 --> File loaded: C:\xampp\htdocs\vabna\application\views\welcome_message.php
+INFO - 2021-08-01 19:54:23 --> Final output sent to browser
+DEBUG - 2021-08-01 19:54:23 --> Total execution time: 0.0858
+INFO - 2021-08-01 19:55:07 --> Config Class Initialized
+INFO - 2021-08-01 19:55:07 --> Hooks Class Initialized
+DEBUG - 2021-08-01 19:55:07 --> UTF-8 Support Enabled
+INFO - 2021-08-01 19:55:07 --> Utf8 Class Initialized
+INFO - 2021-08-01 19:55:07 --> URI Class Initialized
+DEBUG - 2021-08-01 19:55:07 --> No URI present. Default controller set.
+INFO - 2021-08-01 19:55:07 --> Router Class Initialized
+INFO - 2021-08-01 19:55:07 --> Output Class Initialized
+INFO - 2021-08-01 19:55:07 --> Security Class Initialized
+DEBUG - 2021-08-01 19:55:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 19:55:07 --> Input Class Initialized
+INFO - 2021-08-01 19:55:07 --> Language Class Initialized
+INFO - 2021-08-01 19:55:07 --> Loader Class Initialized
+INFO - 2021-08-01 19:55:07 --> Helper loaded: url_helper
+INFO - 2021-08-01 19:55:07 --> Helper loaded: file_helper
+INFO - 2021-08-01 19:55:07 --> Helper loaded: useful_helper
+INFO - 2021-08-01 19:55:07 --> Helper loaded: date_helper
+INFO - 2021-08-01 19:55:07 --> Database Driver Class Initialized
+INFO - 2021-08-01 19:55:07 --> Email Class Initialized
+INFO - 2021-08-01 19:55:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 19:55:07 --> Helper loaded: form_helper
+INFO - 2021-08-01 19:55:07 --> Form Validation Class Initialized
+INFO - 2021-08-01 19:55:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 19:55:07 --> Pagination Class Initialized
+INFO - 2021-08-01 19:55:07 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 19:55:07 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 19:55:07 --> Model "Category" initialized
+INFO - 2021-08-01 19:55:07 --> Model "Media" initialized
+INFO - 2021-08-01 19:55:07 --> Model "Post" initialized
+INFO - 2021-08-01 19:55:07 --> Model "Tags" initialized
+INFO - 2021-08-01 19:55:07 --> Model "Comments" initialized
+INFO - 2021-08-01 19:55:07 --> Model "Subscription" initialized
+INFO - 2021-08-01 19:55:07 --> Model "Site" initialized
+INFO - 2021-08-01 19:55:07 --> Controller Class Initialized
+INFO - 2021-08-01 19:55:07 --> File loaded: C:\xampp\htdocs\vabna\application\views\header.php
+INFO - 2021-08-01 19:55:07 --> File loaded: C:\xampp\htdocs\vabna\application\views\footer.php
+INFO - 2021-08-01 19:55:07 --> File loaded: C:\xampp\htdocs\vabna\application\views\welcome_message.php
+INFO - 2021-08-01 19:55:07 --> Final output sent to browser
+DEBUG - 2021-08-01 19:55:07 --> Total execution time: 0.0816
+INFO - 2021-08-01 19:58:40 --> Config Class Initialized
+INFO - 2021-08-01 19:58:40 --> Hooks Class Initialized
+DEBUG - 2021-08-01 19:58:40 --> UTF-8 Support Enabled
+INFO - 2021-08-01 19:58:40 --> Utf8 Class Initialized
+INFO - 2021-08-01 19:58:40 --> URI Class Initialized
+DEBUG - 2021-08-01 19:58:40 --> No URI present. Default controller set.
+INFO - 2021-08-01 19:58:40 --> Router Class Initialized
+INFO - 2021-08-01 19:58:40 --> Output Class Initialized
+INFO - 2021-08-01 19:58:40 --> Security Class Initialized
+DEBUG - 2021-08-01 19:58:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 19:58:40 --> Input Class Initialized
+INFO - 2021-08-01 19:58:40 --> Language Class Initialized
+INFO - 2021-08-01 19:58:40 --> Loader Class Initialized
+INFO - 2021-08-01 19:58:40 --> Helper loaded: url_helper
+INFO - 2021-08-01 19:58:40 --> Helper loaded: file_helper
+INFO - 2021-08-01 19:58:40 --> Helper loaded: useful_helper
+INFO - 2021-08-01 19:58:40 --> Helper loaded: date_helper
+INFO - 2021-08-01 19:58:40 --> Database Driver Class Initialized
+INFO - 2021-08-01 19:58:40 --> Email Class Initialized
+INFO - 2021-08-01 19:58:40 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 19:58:40 --> Helper loaded: form_helper
+INFO - 2021-08-01 19:58:40 --> Form Validation Class Initialized
+INFO - 2021-08-01 19:58:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 19:58:40 --> Pagination Class Initialized
+INFO - 2021-08-01 19:58:40 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 19:58:40 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 19:58:40 --> Model "Category" initialized
+INFO - 2021-08-01 19:58:40 --> Model "Media" initialized
+INFO - 2021-08-01 19:58:40 --> Model "Post" initialized
+INFO - 2021-08-01 19:58:40 --> Model "Tags" initialized
+INFO - 2021-08-01 19:58:40 --> Model "Comments" initialized
+INFO - 2021-08-01 19:58:40 --> Model "Subscription" initialized
+INFO - 2021-08-01 19:58:40 --> Model "Site" initialized
+INFO - 2021-08-01 19:58:40 --> Controller Class Initialized
+INFO - 2021-08-01 19:58:40 --> File loaded: C:\xampp\htdocs\vabna\application\views\header.php
+INFO - 2021-08-01 19:58:40 --> File loaded: C:\xampp\htdocs\vabna\application\views\footer.php
+INFO - 2021-08-01 19:58:40 --> File loaded: C:\xampp\htdocs\vabna\application\views\welcome_message.php
+INFO - 2021-08-01 19:58:40 --> Final output sent to browser
+DEBUG - 2021-08-01 19:58:40 --> Total execution time: 0.0845
+INFO - 2021-08-01 20:00:34 --> Config Class Initialized
+INFO - 2021-08-01 20:00:34 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:00:34 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:00:34 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:00:34 --> URI Class Initialized
+DEBUG - 2021-08-01 20:00:34 --> No URI present. Default controller set.
+INFO - 2021-08-01 20:00:34 --> Router Class Initialized
+INFO - 2021-08-01 20:00:34 --> Output Class Initialized
+INFO - 2021-08-01 20:00:34 --> Security Class Initialized
+DEBUG - 2021-08-01 20:00:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:00:34 --> Input Class Initialized
+INFO - 2021-08-01 20:00:34 --> Language Class Initialized
+INFO - 2021-08-01 20:00:34 --> Loader Class Initialized
+INFO - 2021-08-01 20:00:34 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:00:34 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:00:34 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:00:34 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:00:34 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:00:34 --> Email Class Initialized
+INFO - 2021-08-01 20:00:34 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:00:34 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:00:34 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:00:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:00:34 --> Pagination Class Initialized
+INFO - 2021-08-01 20:00:34 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:00:34 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:00:34 --> Model "Category" initialized
+INFO - 2021-08-01 20:00:34 --> Model "Media" initialized
+INFO - 2021-08-01 20:00:34 --> Model "Post" initialized
+INFO - 2021-08-01 20:00:34 --> Model "Tags" initialized
+INFO - 2021-08-01 20:00:34 --> Model "Comments" initialized
+INFO - 2021-08-01 20:00:34 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:00:34 --> Model "Site" initialized
+INFO - 2021-08-01 20:00:34 --> Controller Class Initialized
+INFO - 2021-08-01 20:00:34 --> File loaded: C:\xampp\htdocs\vabna\application\views\header.php
+INFO - 2021-08-01 20:00:34 --> File loaded: C:\xampp\htdocs\vabna\application\views\footer.php
+INFO - 2021-08-01 20:00:34 --> File loaded: C:\xampp\htdocs\vabna\application\views\welcome_message.php
+INFO - 2021-08-01 20:00:34 --> Final output sent to browser
+DEBUG - 2021-08-01 20:00:34 --> Total execution time: 0.0840
+INFO - 2021-08-01 20:01:34 --> Config Class Initialized
+INFO - 2021-08-01 20:01:34 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:01:34 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:01:34 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:01:34 --> URI Class Initialized
+DEBUG - 2021-08-01 20:01:34 --> No URI present. Default controller set.
+INFO - 2021-08-01 20:01:34 --> Router Class Initialized
+INFO - 2021-08-01 20:01:34 --> Output Class Initialized
+INFO - 2021-08-01 20:01:34 --> Security Class Initialized
+DEBUG - 2021-08-01 20:01:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:01:34 --> Input Class Initialized
+INFO - 2021-08-01 20:01:34 --> Language Class Initialized
+INFO - 2021-08-01 20:01:34 --> Loader Class Initialized
+INFO - 2021-08-01 20:01:34 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:01:34 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:01:34 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:01:34 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:01:34 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:01:34 --> Email Class Initialized
+INFO - 2021-08-01 20:01:34 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:01:34 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:01:34 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:01:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:01:34 --> Pagination Class Initialized
+INFO - 2021-08-01 20:01:34 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:01:34 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:01:34 --> Model "Category" initialized
+INFO - 2021-08-01 20:01:34 --> Model "Media" initialized
+INFO - 2021-08-01 20:01:34 --> Model "Post" initialized
+INFO - 2021-08-01 20:01:34 --> Model "Tags" initialized
+INFO - 2021-08-01 20:01:34 --> Model "Comments" initialized
+INFO - 2021-08-01 20:01:34 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:01:34 --> Model "Site" initialized
+INFO - 2021-08-01 20:01:34 --> Controller Class Initialized
+INFO - 2021-08-01 20:01:34 --> File loaded: C:\xampp\htdocs\vabna\application\views\header.php
+INFO - 2021-08-01 20:01:34 --> File loaded: C:\xampp\htdocs\vabna\application\views\footer.php
+INFO - 2021-08-01 20:01:34 --> File loaded: C:\xampp\htdocs\vabna\application\views\welcome_message.php
+INFO - 2021-08-01 20:01:34 --> Final output sent to browser
+DEBUG - 2021-08-01 20:01:34 --> Total execution time: 0.0808
+INFO - 2021-08-01 20:04:43 --> Config Class Initialized
+INFO - 2021-08-01 20:04:43 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:04:43 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:04:43 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:04:43 --> URI Class Initialized
+DEBUG - 2021-08-01 20:04:43 --> No URI present. Default controller set.
+INFO - 2021-08-01 20:04:43 --> Router Class Initialized
+INFO - 2021-08-01 20:04:43 --> Output Class Initialized
+INFO - 2021-08-01 20:04:43 --> Security Class Initialized
+DEBUG - 2021-08-01 20:04:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:04:43 --> Input Class Initialized
+INFO - 2021-08-01 20:04:43 --> Language Class Initialized
+INFO - 2021-08-01 20:04:43 --> Loader Class Initialized
+INFO - 2021-08-01 20:04:43 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:04:43 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:04:43 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:04:43 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:04:43 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:04:43 --> Email Class Initialized
+INFO - 2021-08-01 20:04:43 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:04:43 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:04:43 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:04:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:04:43 --> Pagination Class Initialized
+INFO - 2021-08-01 20:04:43 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:04:43 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:04:43 --> Model "Category" initialized
+INFO - 2021-08-01 20:04:43 --> Model "Media" initialized
+INFO - 2021-08-01 20:04:43 --> Model "Post" initialized
+INFO - 2021-08-01 20:04:43 --> Model "Tags" initialized
+INFO - 2021-08-01 20:04:43 --> Model "Comments" initialized
+INFO - 2021-08-01 20:04:43 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:04:43 --> Model "Site" initialized
+INFO - 2021-08-01 20:04:43 --> Controller Class Initialized
+INFO - 2021-08-01 20:04:43 --> File loaded: C:\xampp\htdocs\vabna\application\views\header.php
+INFO - 2021-08-01 20:04:43 --> File loaded: C:\xampp\htdocs\vabna\application\views\footer.php
+INFO - 2021-08-01 20:04:43 --> File loaded: C:\xampp\htdocs\vabna\application\views\welcome_message.php
+INFO - 2021-08-01 20:04:43 --> Final output sent to browser
+DEBUG - 2021-08-01 20:04:43 --> Total execution time: 0.1041
+INFO - 2021-08-01 20:05:08 --> Config Class Initialized
+INFO - 2021-08-01 20:05:08 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:05:08 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:05:08 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:05:08 --> URI Class Initialized
+INFO - 2021-08-01 20:05:08 --> Router Class Initialized
+INFO - 2021-08-01 20:05:08 --> Output Class Initialized
+INFO - 2021-08-01 20:05:08 --> Security Class Initialized
+DEBUG - 2021-08-01 20:05:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:05:08 --> Input Class Initialized
+INFO - 2021-08-01 20:05:08 --> Language Class Initialized
+INFO - 2021-08-01 20:05:08 --> Loader Class Initialized
+INFO - 2021-08-01 20:05:08 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:05:08 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:05:08 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:05:08 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:05:08 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:05:08 --> Email Class Initialized
+INFO - 2021-08-01 20:05:08 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:05:08 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:05:08 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:05:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:05:08 --> Pagination Class Initialized
+INFO - 2021-08-01 20:05:08 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:05:08 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:05:08 --> Model "Category" initialized
+INFO - 2021-08-01 20:05:08 --> Model "Media" initialized
+INFO - 2021-08-01 20:05:08 --> Model "Post" initialized
+INFO - 2021-08-01 20:05:08 --> Model "Tags" initialized
+INFO - 2021-08-01 20:05:08 --> Model "Comments" initialized
+INFO - 2021-08-01 20:05:08 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:05:08 --> Model "Site" initialized
+INFO - 2021-08-01 20:05:08 --> Controller Class Initialized
+INFO - 2021-08-01 20:05:08 --> File loaded: C:\xampp\htdocs\vabna\application\views\header.php
+INFO - 2021-08-01 20:05:08 --> File loaded: C:\xampp\htdocs\vabna\application\views\footer.php
+INFO - 2021-08-01 20:05:08 --> File loaded: C:\xampp\htdocs\vabna\application\views\contact.php
+INFO - 2021-08-01 20:05:08 --> Final output sent to browser
+DEBUG - 2021-08-01 20:05:08 --> Total execution time: 0.0810
+INFO - 2021-08-01 20:05:11 --> Config Class Initialized
+INFO - 2021-08-01 20:05:11 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:05:11 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:05:11 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:05:11 --> URI Class Initialized
+INFO - 2021-08-01 20:05:11 --> Router Class Initialized
+INFO - 2021-08-01 20:05:11 --> Output Class Initialized
+INFO - 2021-08-01 20:05:11 --> Security Class Initialized
+DEBUG - 2021-08-01 20:05:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:05:11 --> Input Class Initialized
+INFO - 2021-08-01 20:05:11 --> Language Class Initialized
+INFO - 2021-08-01 20:05:11 --> Loader Class Initialized
+INFO - 2021-08-01 20:05:11 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:05:11 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:05:11 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:05:11 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:05:11 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:05:11 --> Email Class Initialized
+INFO - 2021-08-01 20:05:11 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:05:11 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:05:11 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:05:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:05:11 --> Pagination Class Initialized
+INFO - 2021-08-01 20:05:11 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:05:11 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:05:11 --> Model "Category" initialized
+INFO - 2021-08-01 20:05:11 --> Model "Media" initialized
+INFO - 2021-08-01 20:05:11 --> Model "Post" initialized
+INFO - 2021-08-01 20:05:11 --> Model "Tags" initialized
+INFO - 2021-08-01 20:05:11 --> Model "Comments" initialized
+INFO - 2021-08-01 20:05:11 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:05:11 --> Model "Site" initialized
+INFO - 2021-08-01 20:05:11 --> Controller Class Initialized
+INFO - 2021-08-01 20:05:11 --> File loaded: C:\xampp\htdocs\vabna\application\views\header.php
+INFO - 2021-08-01 20:05:11 --> File loaded: C:\xampp\htdocs\vabna\application\views\footer.php
+INFO - 2021-08-01 20:05:11 --> File loaded: C:\xampp\htdocs\vabna\application\views\aboutus.php
+INFO - 2021-08-01 20:05:11 --> Final output sent to browser
+DEBUG - 2021-08-01 20:05:11 --> Total execution time: 0.0768
+INFO - 2021-08-01 20:05:18 --> Config Class Initialized
+INFO - 2021-08-01 20:05:18 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:05:18 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:05:18 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:05:18 --> URI Class Initialized
+INFO - 2021-08-01 20:05:18 --> Router Class Initialized
+INFO - 2021-08-01 20:05:18 --> Output Class Initialized
+INFO - 2021-08-01 20:05:18 --> Security Class Initialized
+DEBUG - 2021-08-01 20:05:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:05:18 --> Input Class Initialized
+INFO - 2021-08-01 20:05:18 --> Language Class Initialized
+INFO - 2021-08-01 20:05:18 --> Loader Class Initialized
+INFO - 2021-08-01 20:05:18 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:05:18 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:05:18 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:05:18 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:05:18 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:05:18 --> Email Class Initialized
+INFO - 2021-08-01 20:05:18 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:05:18 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:05:18 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:05:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:05:18 --> Pagination Class Initialized
+INFO - 2021-08-01 20:05:18 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:05:18 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:05:18 --> Model "Category" initialized
+INFO - 2021-08-01 20:05:18 --> Model "Media" initialized
+INFO - 2021-08-01 20:05:18 --> Model "Post" initialized
+INFO - 2021-08-01 20:05:18 --> Model "Tags" initialized
+INFO - 2021-08-01 20:05:18 --> Model "Comments" initialized
+INFO - 2021-08-01 20:05:18 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:05:18 --> Model "Site" initialized
+INFO - 2021-08-01 20:05:18 --> Controller Class Initialized
+INFO - 2021-08-01 20:05:18 --> File loaded: C:\xampp\htdocs\vabna\application\views\header.php
+INFO - 2021-08-01 20:05:18 --> File loaded: C:\xampp\htdocs\vabna\application\views\footer.php
+INFO - 2021-08-01 20:05:18 --> File loaded: C:\xampp\htdocs\vabna\application\views\contact.php
+INFO - 2021-08-01 20:05:18 --> Final output sent to browser
+DEBUG - 2021-08-01 20:05:18 --> Total execution time: 0.0780
+INFO - 2021-08-01 20:06:11 --> Config Class Initialized
+INFO - 2021-08-01 20:06:11 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:06:11 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:06:11 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:06:11 --> URI Class Initialized
+INFO - 2021-08-01 20:06:11 --> Router Class Initialized
+INFO - 2021-08-01 20:06:11 --> Output Class Initialized
+INFO - 2021-08-01 20:06:11 --> Security Class Initialized
+DEBUG - 2021-08-01 20:06:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:06:11 --> Input Class Initialized
+INFO - 2021-08-01 20:06:11 --> Language Class Initialized
+INFO - 2021-08-01 20:06:11 --> Loader Class Initialized
+INFO - 2021-08-01 20:06:11 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:06:11 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:06:11 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:06:11 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:06:11 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:06:11 --> Email Class Initialized
+INFO - 2021-08-01 20:06:11 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:06:11 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:06:11 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:06:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:06:11 --> Pagination Class Initialized
+INFO - 2021-08-01 20:06:11 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:06:11 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:06:11 --> Model "Category" initialized
+INFO - 2021-08-01 20:06:11 --> Model "Media" initialized
+INFO - 2021-08-01 20:06:11 --> Model "Post" initialized
+INFO - 2021-08-01 20:06:11 --> Model "Tags" initialized
+INFO - 2021-08-01 20:06:11 --> Model "Comments" initialized
+INFO - 2021-08-01 20:06:11 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:06:11 --> Model "Site" initialized
+INFO - 2021-08-01 20:06:11 --> Controller Class Initialized
+INFO - 2021-08-01 20:06:11 --> File loaded: C:\xampp\htdocs\vabna\application\views\header.php
+INFO - 2021-08-01 20:06:11 --> File loaded: C:\xampp\htdocs\vabna\application\views\footer.php
+INFO - 2021-08-01 20:06:11 --> File loaded: C:\xampp\htdocs\vabna\application\views\contact.php
+INFO - 2021-08-01 20:06:11 --> Final output sent to browser
+DEBUG - 2021-08-01 20:06:11 --> Total execution time: 0.0840
+INFO - 2021-08-01 20:06:14 --> Config Class Initialized
+INFO - 2021-08-01 20:06:14 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:06:14 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:06:14 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:06:14 --> URI Class Initialized
+DEBUG - 2021-08-01 20:06:14 --> No URI present. Default controller set.
+INFO - 2021-08-01 20:06:14 --> Router Class Initialized
+INFO - 2021-08-01 20:06:14 --> Output Class Initialized
+INFO - 2021-08-01 20:06:14 --> Security Class Initialized
+DEBUG - 2021-08-01 20:06:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:06:14 --> Input Class Initialized
+INFO - 2021-08-01 20:06:14 --> Language Class Initialized
+INFO - 2021-08-01 20:06:14 --> Loader Class Initialized
+INFO - 2021-08-01 20:06:14 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:06:14 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:06:14 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:06:14 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:06:14 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:06:14 --> Email Class Initialized
+INFO - 2021-08-01 20:06:14 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:06:14 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:06:14 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:06:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:06:14 --> Pagination Class Initialized
+INFO - 2021-08-01 20:06:14 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:06:14 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:06:14 --> Model "Category" initialized
+INFO - 2021-08-01 20:06:14 --> Model "Media" initialized
+INFO - 2021-08-01 20:06:14 --> Model "Post" initialized
+INFO - 2021-08-01 20:06:14 --> Model "Tags" initialized
+INFO - 2021-08-01 20:06:14 --> Model "Comments" initialized
+INFO - 2021-08-01 20:06:14 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:06:14 --> Model "Site" initialized
+INFO - 2021-08-01 20:06:14 --> Controller Class Initialized
+INFO - 2021-08-01 20:06:14 --> File loaded: C:\xampp\htdocs\vabna\application\views\header.php
+INFO - 2021-08-01 20:06:14 --> File loaded: C:\xampp\htdocs\vabna\application\views\footer.php
+INFO - 2021-08-01 20:06:14 --> File loaded: C:\xampp\htdocs\vabna\application\views\welcome_message.php
+INFO - 2021-08-01 20:06:14 --> Final output sent to browser
+DEBUG - 2021-08-01 20:06:14 --> Total execution time: 0.0838
+INFO - 2021-08-01 20:06:35 --> Config Class Initialized
+INFO - 2021-08-01 20:06:35 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:06:35 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:06:35 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:06:35 --> URI Class Initialized
+INFO - 2021-08-01 20:06:35 --> Router Class Initialized
+INFO - 2021-08-01 20:06:35 --> Output Class Initialized
+INFO - 2021-08-01 20:06:35 --> Security Class Initialized
+DEBUG - 2021-08-01 20:06:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:06:35 --> Input Class Initialized
+INFO - 2021-08-01 20:06:35 --> Language Class Initialized
+INFO - 2021-08-01 20:06:35 --> Loader Class Initialized
+INFO - 2021-08-01 20:06:35 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:06:35 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:06:35 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:06:35 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:06:35 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:06:35 --> Email Class Initialized
+INFO - 2021-08-01 20:06:35 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:06:35 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:06:35 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:06:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:06:35 --> Pagination Class Initialized
+INFO - 2021-08-01 20:06:35 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:06:35 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:06:35 --> Model "Category" initialized
+INFO - 2021-08-01 20:06:35 --> Model "Media" initialized
+INFO - 2021-08-01 20:06:35 --> Model "Post" initialized
+INFO - 2021-08-01 20:06:35 --> Model "Tags" initialized
+INFO - 2021-08-01 20:06:35 --> Model "Comments" initialized
+INFO - 2021-08-01 20:06:35 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:06:35 --> Model "Site" initialized
+INFO - 2021-08-01 20:06:35 --> Controller Class Initialized
+INFO - 2021-08-01 20:06:35 --> File loaded: C:\xampp\htdocs\vabna\application\views\backoffice/login.php
+INFO - 2021-08-01 20:06:35 --> Final output sent to browser
+DEBUG - 2021-08-01 20:06:35 --> Total execution time: 0.1030
+INFO - 2021-08-01 20:06:44 --> Config Class Initialized
+INFO - 2021-08-01 20:06:44 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:06:44 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:06:44 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:06:44 --> URI Class Initialized
+INFO - 2021-08-01 20:06:44 --> Router Class Initialized
+INFO - 2021-08-01 20:06:44 --> Output Class Initialized
+INFO - 2021-08-01 20:06:44 --> Security Class Initialized
+DEBUG - 2021-08-01 20:06:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:06:44 --> Input Class Initialized
+INFO - 2021-08-01 20:06:44 --> Language Class Initialized
+INFO - 2021-08-01 20:06:44 --> Loader Class Initialized
+INFO - 2021-08-01 20:06:44 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:06:44 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:06:44 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:06:44 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:06:44 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:06:44 --> Email Class Initialized
+INFO - 2021-08-01 20:06:44 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:06:44 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:06:44 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:06:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:06:44 --> Pagination Class Initialized
+INFO - 2021-08-01 20:06:44 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:06:44 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:06:44 --> Model "Category" initialized
+INFO - 2021-08-01 20:06:44 --> Model "Media" initialized
+INFO - 2021-08-01 20:06:44 --> Model "Post" initialized
+INFO - 2021-08-01 20:06:44 --> Model "Tags" initialized
+INFO - 2021-08-01 20:06:44 --> Model "Comments" initialized
+INFO - 2021-08-01 20:06:44 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:06:44 --> Model "Site" initialized
+INFO - 2021-08-01 20:06:44 --> Controller Class Initialized
+INFO - 2021-08-01 20:06:44 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-08-01 20:06:44 --> File loaded: C:\xampp\htdocs\vabna\application\views\backoffice/login.php
+INFO - 2021-08-01 20:06:44 --> Final output sent to browser
+DEBUG - 2021-08-01 20:06:44 --> Total execution time: 0.0763
+INFO - 2021-08-01 20:07:08 --> Config Class Initialized
+INFO - 2021-08-01 20:07:08 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:07:08 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:07:08 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:07:08 --> URI Class Initialized
+INFO - 2021-08-01 20:07:08 --> Router Class Initialized
+INFO - 2021-08-01 20:07:08 --> Output Class Initialized
+INFO - 2021-08-01 20:07:08 --> Security Class Initialized
+DEBUG - 2021-08-01 20:07:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:07:08 --> Input Class Initialized
+INFO - 2021-08-01 20:07:08 --> Language Class Initialized
+INFO - 2021-08-01 20:07:08 --> Loader Class Initialized
+INFO - 2021-08-01 20:07:08 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:07:08 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:07:08 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:07:08 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:07:08 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:07:08 --> Email Class Initialized
+INFO - 2021-08-01 20:07:08 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:07:08 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:07:08 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:07:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:07:08 --> Pagination Class Initialized
+INFO - 2021-08-01 20:07:08 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:07:08 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:07:08 --> Model "Category" initialized
+INFO - 2021-08-01 20:07:08 --> Model "Media" initialized
+INFO - 2021-08-01 20:07:08 --> Model "Post" initialized
+INFO - 2021-08-01 20:07:08 --> Model "Tags" initialized
+INFO - 2021-08-01 20:07:08 --> Model "Comments" initialized
+INFO - 2021-08-01 20:07:08 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:07:08 --> Model "Site" initialized
+INFO - 2021-08-01 20:07:08 --> Controller Class Initialized
+INFO - 2021-08-01 20:07:08 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-08-01 20:07:08 --> File loaded: C:\xampp\htdocs\vabna\application\views\backoffice/login.php
+INFO - 2021-08-01 20:07:08 --> Final output sent to browser
+DEBUG - 2021-08-01 20:07:08 --> Total execution time: 0.2328
+INFO - 2021-08-01 20:07:15 --> Config Class Initialized
+INFO - 2021-08-01 20:07:15 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:07:15 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:07:15 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:07:15 --> URI Class Initialized
+INFO - 2021-08-01 20:07:15 --> Router Class Initialized
+INFO - 2021-08-01 20:07:15 --> Output Class Initialized
+INFO - 2021-08-01 20:07:15 --> Security Class Initialized
+DEBUG - 2021-08-01 20:07:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:07:15 --> Input Class Initialized
+INFO - 2021-08-01 20:07:15 --> Language Class Initialized
+INFO - 2021-08-01 20:07:15 --> Loader Class Initialized
+INFO - 2021-08-01 20:07:15 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:07:15 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:07:15 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:07:15 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:07:15 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:07:15 --> Email Class Initialized
+INFO - 2021-08-01 20:07:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:07:15 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:07:15 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:07:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:07:15 --> Pagination Class Initialized
+INFO - 2021-08-01 20:07:15 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Category" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Media" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Post" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Tags" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Comments" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Site" initialized
+INFO - 2021-08-01 20:07:15 --> Controller Class Initialized
+INFO - 2021-08-01 20:07:15 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-08-01 20:07:15 --> Config Class Initialized
+INFO - 2021-08-01 20:07:15 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:07:15 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:07:15 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:07:15 --> URI Class Initialized
+INFO - 2021-08-01 20:07:15 --> Router Class Initialized
+INFO - 2021-08-01 20:07:15 --> Output Class Initialized
+INFO - 2021-08-01 20:07:15 --> Security Class Initialized
+DEBUG - 2021-08-01 20:07:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:07:15 --> Input Class Initialized
+INFO - 2021-08-01 20:07:15 --> Language Class Initialized
+INFO - 2021-08-01 20:07:15 --> Loader Class Initialized
+INFO - 2021-08-01 20:07:15 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:07:15 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:07:15 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:07:15 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:07:15 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:07:15 --> Email Class Initialized
+INFO - 2021-08-01 20:07:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:07:15 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:07:15 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:07:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:07:15 --> Pagination Class Initialized
+INFO - 2021-08-01 20:07:15 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Category" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Media" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Post" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Tags" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Comments" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:07:15 --> Model "Site" initialized
+INFO - 2021-08-01 20:07:15 --> Controller Class Initialized
+INFO - 2021-08-01 20:07:15 --> File loaded: C:\xampp\htdocs\vabna\application\views\backoffice/header.php
+INFO - 2021-08-01 20:07:15 --> File loaded: C:\xampp\htdocs\vabna\application\views\backoffice/footer.php
+INFO - 2021-08-01 20:07:15 --> File loaded: C:\xampp\htdocs\vabna\application\views\backoffice/home.php
+INFO - 2021-08-01 20:07:15 --> Final output sent to browser
+DEBUG - 2021-08-01 20:07:15 --> Total execution time: 0.0775
+INFO - 2021-08-01 20:07:31 --> Config Class Initialized
+INFO - 2021-08-01 20:07:31 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:07:31 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:07:31 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:07:31 --> URI Class Initialized
+INFO - 2021-08-01 20:07:31 --> Router Class Initialized
+INFO - 2021-08-01 20:07:31 --> Output Class Initialized
+INFO - 2021-08-01 20:07:31 --> Security Class Initialized
+DEBUG - 2021-08-01 20:07:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:07:31 --> Input Class Initialized
+INFO - 2021-08-01 20:07:31 --> Language Class Initialized
+INFO - 2021-08-01 20:07:31 --> Loader Class Initialized
+INFO - 2021-08-01 20:07:31 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:07:31 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:07:31 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:07:31 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:07:31 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:07:31 --> Email Class Initialized
+INFO - 2021-08-01 20:07:31 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:07:31 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:07:31 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:07:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:07:31 --> Pagination Class Initialized
+INFO - 2021-08-01 20:07:31 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:07:31 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:07:31 --> Model "Category" initialized
+INFO - 2021-08-01 20:07:31 --> Model "Media" initialized
+INFO - 2021-08-01 20:07:31 --> Model "Post" initialized
+INFO - 2021-08-01 20:07:31 --> Model "Tags" initialized
+INFO - 2021-08-01 20:07:31 --> Model "Comments" initialized
+INFO - 2021-08-01 20:07:31 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:07:31 --> Model "Site" initialized
+INFO - 2021-08-01 20:07:31 --> Controller Class Initialized
+INFO - 2021-08-01 20:07:31 --> File loaded: C:\xampp\htdocs\vabna\application\views\backoffice/header.php
+INFO - 2021-08-01 20:07:31 --> File loaded: C:\xampp\htdocs\vabna\application\views\backoffice/footer.php
+INFO - 2021-08-01 20:07:31 --> File loaded: C:\xampp\htdocs\vabna\application\views\backoffice/media.php
+INFO - 2021-08-01 20:07:31 --> Final output sent to browser
+DEBUG - 2021-08-01 20:07:31 --> Total execution time: 0.1072
+INFO - 2021-08-01 20:07:38 --> Config Class Initialized
+INFO - 2021-08-01 20:07:38 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:07:38 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:07:38 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:07:38 --> URI Class Initialized
+INFO - 2021-08-01 20:07:38 --> Router Class Initialized
+INFO - 2021-08-01 20:07:38 --> Output Class Initialized
+INFO - 2021-08-01 20:07:38 --> Security Class Initialized
+DEBUG - 2021-08-01 20:07:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:07:38 --> Input Class Initialized
+INFO - 2021-08-01 20:07:38 --> Language Class Initialized
+INFO - 2021-08-01 20:07:38 --> Loader Class Initialized
+INFO - 2021-08-01 20:07:38 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:07:38 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:07:38 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:07:38 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:07:38 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:07:38 --> Email Class Initialized
+INFO - 2021-08-01 20:07:38 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:07:38 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:07:38 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:07:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:07:38 --> Pagination Class Initialized
+INFO - 2021-08-01 20:07:38 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Category" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Media" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Post" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Tags" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Comments" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Site" initialized
+INFO - 2021-08-01 20:07:38 --> Controller Class Initialized
+INFO - 2021-08-01 20:07:38 --> Config Class Initialized
+INFO - 2021-08-01 20:07:38 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:07:38 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:07:38 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:07:38 --> URI Class Initialized
+INFO - 2021-08-01 20:07:38 --> Router Class Initialized
+INFO - 2021-08-01 20:07:38 --> Output Class Initialized
+INFO - 2021-08-01 20:07:38 --> Security Class Initialized
+DEBUG - 2021-08-01 20:07:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:07:38 --> Input Class Initialized
+INFO - 2021-08-01 20:07:38 --> Language Class Initialized
+INFO - 2021-08-01 20:07:38 --> Loader Class Initialized
+INFO - 2021-08-01 20:07:38 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:07:38 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:07:38 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:07:38 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:07:38 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:07:38 --> Email Class Initialized
+INFO - 2021-08-01 20:07:38 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:07:38 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:07:38 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:07:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:07:38 --> Pagination Class Initialized
+INFO - 2021-08-01 20:07:38 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Category" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Media" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Post" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Tags" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Comments" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:07:38 --> Model "Site" initialized
+INFO - 2021-08-01 20:07:38 --> Controller Class Initialized
+INFO - 2021-08-01 20:07:38 --> File loaded: C:\xampp\htdocs\vabna\application\views\backoffice/header.php
+INFO - 2021-08-01 20:07:39 --> File loaded: C:\xampp\htdocs\vabna\application\views\backoffice/footer.php
+INFO - 2021-08-01 20:07:39 --> File loaded: C:\xampp\htdocs\vabna\application\views\backoffice/new_post.php
+INFO - 2021-08-01 20:07:39 --> Final output sent to browser
+DEBUG - 2021-08-01 20:07:39 --> Total execution time: 0.0817
+INFO - 2021-08-01 20:07:42 --> Config Class Initialized
+INFO - 2021-08-01 20:07:42 --> Hooks Class Initialized
+DEBUG - 2021-08-01 20:07:42 --> UTF-8 Support Enabled
+INFO - 2021-08-01 20:07:42 --> Utf8 Class Initialized
+INFO - 2021-08-01 20:07:42 --> URI Class Initialized
+INFO - 2021-08-01 20:07:42 --> Router Class Initialized
+INFO - 2021-08-01 20:07:42 --> Output Class Initialized
+INFO - 2021-08-01 20:07:42 --> Security Class Initialized
+DEBUG - 2021-08-01 20:07:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-08-01 20:07:42 --> Input Class Initialized
+INFO - 2021-08-01 20:07:42 --> Language Class Initialized
+INFO - 2021-08-01 20:07:42 --> Loader Class Initialized
+INFO - 2021-08-01 20:07:42 --> Helper loaded: url_helper
+INFO - 2021-08-01 20:07:43 --> Helper loaded: file_helper
+INFO - 2021-08-01 20:07:43 --> Helper loaded: useful_helper
+INFO - 2021-08-01 20:07:43 --> Helper loaded: date_helper
+INFO - 2021-08-01 20:07:43 --> Database Driver Class Initialized
+INFO - 2021-08-01 20:07:43 --> Email Class Initialized
+INFO - 2021-08-01 20:07:43 --> Session: Class initialized using 'files' driver.
+INFO - 2021-08-01 20:07:43 --> Helper loaded: form_helper
+INFO - 2021-08-01 20:07:43 --> Form Validation Class Initialized
+INFO - 2021-08-01 20:07:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-08-01 20:07:43 --> Pagination Class Initialized
+INFO - 2021-08-01 20:07:43 --> Model "Backoffice_M" initialized
+INFO - 2021-08-01 20:07:43 --> Model "Loginrecords" initialized
+INFO - 2021-08-01 20:07:43 --> Model "Category" initialized
+INFO - 2021-08-01 20:07:43 --> Model "Media" initialized
+INFO - 2021-08-01 20:07:43 --> Model "Post" initialized
+INFO - 2021-08-01 20:07:43 --> Model "Tags" initialized
+INFO - 2021-08-01 20:07:43 --> Model "Comments" initialized
+INFO - 2021-08-01 20:07:43 --> Model "Subscription" initialized
+INFO - 2021-08-01 20:07:43 --> Model "Site" initialized
+INFO - 2021-08-01 20:07:43 --> Controller Class Initialized
+INFO - 2021-08-01 20:07:43 --> File loaded: C:\xampp\htdocs\vabna\application\views\backoffice/header.php
+INFO - 2021-08-01 20:07:43 --> File loaded: C:\xampp\htdocs\vabna\application\views\backoffice/footer.php
+INFO - 2021-08-01 20:07:43 --> File loaded: C:\xampp\htdocs\vabna\application\views\backoffice/post_archive.php
+INFO - 2021-08-01 20:07:43 --> Final output sent to browser
+DEBUG - 2021-08-01 20:07:43 --> Total execution time: 0.0742

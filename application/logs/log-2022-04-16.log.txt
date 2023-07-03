@@ -1,0 +1,39 @@
+INFO - 2022-04-16 20:30:54 --> Config Class Initialized
+INFO - 2022-04-16 20:30:54 --> Hooks Class Initialized
+DEBUG - 2022-04-16 20:30:54 --> UTF-8 Support Enabled
+INFO - 2022-04-16 20:30:54 --> Utf8 Class Initialized
+INFO - 2022-04-16 20:30:54 --> URI Class Initialized
+DEBUG - 2022-04-16 20:30:54 --> No URI present. Default controller set.
+INFO - 2022-04-16 20:30:54 --> Router Class Initialized
+INFO - 2022-04-16 20:30:54 --> Output Class Initialized
+INFO - 2022-04-16 20:30:54 --> Security Class Initialized
+DEBUG - 2022-04-16 20:30:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-04-16 20:30:54 --> Input Class Initialized
+INFO - 2022-04-16 20:30:54 --> Language Class Initialized
+INFO - 2022-04-16 20:30:54 --> Loader Class Initialized
+INFO - 2022-04-16 20:30:54 --> Helper loaded: url_helper
+INFO - 2022-04-16 20:30:54 --> Helper loaded: file_helper
+INFO - 2022-04-16 20:30:54 --> Helper loaded: useful_helper
+INFO - 2022-04-16 20:30:54 --> Helper loaded: date_helper
+INFO - 2022-04-16 20:30:54 --> Database Driver Class Initialized
+INFO - 2022-04-16 20:30:54 --> Email Class Initialized
+INFO - 2022-04-16 20:30:54 --> Session: Class initialized using 'files' driver.
+INFO - 2022-04-16 20:30:54 --> Helper loaded: form_helper
+INFO - 2022-04-16 20:30:54 --> Form Validation Class Initialized
+INFO - 2022-04-16 20:30:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2022-04-16 20:30:54 --> Pagination Class Initialized
+INFO - 2022-04-16 20:30:54 --> Model "Backoffice_M" initialized
+INFO - 2022-04-16 20:30:54 --> Model "Loginrecords" initialized
+INFO - 2022-04-16 20:30:54 --> Model "Category" initialized
+INFO - 2022-04-16 20:30:54 --> Model "Media" initialized
+INFO - 2022-04-16 20:30:54 --> Model "Post" initialized
+INFO - 2022-04-16 20:30:54 --> Model "Tags" initialized
+INFO - 2022-04-16 20:30:54 --> Model "Comments" initialized
+INFO - 2022-04-16 20:30:54 --> Model "Subscription" initialized
+INFO - 2022-04-16 20:30:54 --> Model "Site" initialized
+INFO - 2022-04-16 20:30:54 --> Controller Class Initialized
+INFO - 2022-04-16 20:30:54 --> File loaded: /www/wwwroot/citphy.org.in/application/views/header.php
+INFO - 2022-04-16 20:30:54 --> File loaded: /www/wwwroot/citphy.org.in/application/views/footer.php
+INFO - 2022-04-16 20:30:54 --> File loaded: /www/wwwroot/citphy.org.in/application/views/welcome_message.php
+INFO - 2022-04-16 20:30:54 --> Final output sent to browser
+DEBUG - 2022-04-16 20:30:54 --> Total execution time: 0.0363

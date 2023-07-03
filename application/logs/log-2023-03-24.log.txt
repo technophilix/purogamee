@@ -1,0 +1,2329 @@
+INFO - 2023-03-24 00:29:28 --> Config Class Initialized
+INFO - 2023-03-24 00:29:28 --> Hooks Class Initialized
+DEBUG - 2023-03-24 00:29:28 --> UTF-8 Support Enabled
+INFO - 2023-03-24 00:29:28 --> Utf8 Class Initialized
+INFO - 2023-03-24 00:29:28 --> URI Class Initialized
+INFO - 2023-03-24 00:29:28 --> Router Class Initialized
+INFO - 2023-03-24 00:29:28 --> Output Class Initialized
+INFO - 2023-03-24 00:29:28 --> Security Class Initialized
+DEBUG - 2023-03-24 00:29:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 00:29:28 --> Input Class Initialized
+INFO - 2023-03-24 00:29:28 --> Language Class Initialized
+INFO - 2023-03-24 00:29:28 --> Loader Class Initialized
+INFO - 2023-03-24 00:29:28 --> Helper loaded: url_helper
+INFO - 2023-03-24 00:29:28 --> Helper loaded: file_helper
+INFO - 2023-03-24 00:29:28 --> Helper loaded: useful_helper
+INFO - 2023-03-24 00:29:28 --> Helper loaded: date_helper
+INFO - 2023-03-24 00:29:28 --> Database Driver Class Initialized
+INFO - 2023-03-24 00:29:28 --> Email Class Initialized
+INFO - 2023-03-24 00:29:28 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 00:29:28 --> Helper loaded: form_helper
+INFO - 2023-03-24 00:29:28 --> Form Validation Class Initialized
+INFO - 2023-03-24 00:29:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 00:29:28 --> Pagination Class Initialized
+INFO - 2023-03-24 00:29:28 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Category" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Media" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Post" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Tags" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Comments" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Subscription" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Site" initialized
+INFO - 2023-03-24 00:29:28 --> Controller Class Initialized
+INFO - 2023-03-24 00:29:28 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 00:29:28 --> Final output sent to browser
+DEBUG - 2023-03-24 00:29:28 --> Total execution time: 0.0502
+INFO - 2023-03-24 00:29:28 --> Config Class Initialized
+INFO - 2023-03-24 00:29:28 --> Hooks Class Initialized
+DEBUG - 2023-03-24 00:29:28 --> UTF-8 Support Enabled
+INFO - 2023-03-24 00:29:28 --> Utf8 Class Initialized
+INFO - 2023-03-24 00:29:28 --> URI Class Initialized
+DEBUG - 2023-03-24 00:29:28 --> No URI present. Default controller set.
+INFO - 2023-03-24 00:29:28 --> Router Class Initialized
+INFO - 2023-03-24 00:29:28 --> Output Class Initialized
+INFO - 2023-03-24 00:29:28 --> Security Class Initialized
+DEBUG - 2023-03-24 00:29:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 00:29:28 --> Input Class Initialized
+INFO - 2023-03-24 00:29:28 --> Language Class Initialized
+INFO - 2023-03-24 00:29:28 --> Loader Class Initialized
+INFO - 2023-03-24 00:29:28 --> Helper loaded: url_helper
+INFO - 2023-03-24 00:29:28 --> Helper loaded: file_helper
+INFO - 2023-03-24 00:29:28 --> Helper loaded: useful_helper
+INFO - 2023-03-24 00:29:28 --> Helper loaded: date_helper
+INFO - 2023-03-24 00:29:28 --> Database Driver Class Initialized
+INFO - 2023-03-24 00:29:28 --> Email Class Initialized
+INFO - 2023-03-24 00:29:28 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 00:29:28 --> Helper loaded: form_helper
+INFO - 2023-03-24 00:29:28 --> Form Validation Class Initialized
+INFO - 2023-03-24 00:29:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 00:29:28 --> Pagination Class Initialized
+INFO - 2023-03-24 00:29:28 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Category" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Media" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Post" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Tags" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Comments" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Subscription" initialized
+INFO - 2023-03-24 00:29:28 --> Model "Site" initialized
+INFO - 2023-03-24 00:29:28 --> Controller Class Initialized
+INFO - 2023-03-24 00:29:28 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 00:29:28 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 00:29:28 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 00:29:28 --> Final output sent to browser
+DEBUG - 2023-03-24 00:29:28 --> Total execution time: 0.0550
+INFO - 2023-03-24 00:29:29 --> Config Class Initialized
+INFO - 2023-03-24 00:29:29 --> Hooks Class Initialized
+DEBUG - 2023-03-24 00:29:29 --> UTF-8 Support Enabled
+INFO - 2023-03-24 00:29:29 --> Utf8 Class Initialized
+INFO - 2023-03-24 00:29:29 --> URI Class Initialized
+INFO - 2023-03-24 00:29:29 --> Router Class Initialized
+INFO - 2023-03-24 00:29:29 --> Output Class Initialized
+INFO - 2023-03-24 00:29:29 --> Security Class Initialized
+DEBUG - 2023-03-24 00:29:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 00:29:29 --> Input Class Initialized
+INFO - 2023-03-24 00:29:29 --> Language Class Initialized
+INFO - 2023-03-24 00:29:29 --> Loader Class Initialized
+INFO - 2023-03-24 00:29:29 --> Helper loaded: url_helper
+INFO - 2023-03-24 00:29:29 --> Helper loaded: file_helper
+INFO - 2023-03-24 00:29:29 --> Helper loaded: useful_helper
+INFO - 2023-03-24 00:29:29 --> Helper loaded: date_helper
+INFO - 2023-03-24 00:29:29 --> Database Driver Class Initialized
+INFO - 2023-03-24 00:29:29 --> Email Class Initialized
+INFO - 2023-03-24 00:29:29 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 00:29:29 --> Helper loaded: form_helper
+INFO - 2023-03-24 00:29:29 --> Form Validation Class Initialized
+INFO - 2023-03-24 00:29:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 00:29:29 --> Pagination Class Initialized
+INFO - 2023-03-24 00:29:29 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 00:29:29 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 00:29:29 --> Model "Category" initialized
+INFO - 2023-03-24 00:29:29 --> Model "Media" initialized
+INFO - 2023-03-24 00:29:29 --> Model "Post" initialized
+INFO - 2023-03-24 00:29:29 --> Model "Tags" initialized
+INFO - 2023-03-24 00:29:29 --> Model "Comments" initialized
+INFO - 2023-03-24 00:29:29 --> Model "Subscription" initialized
+INFO - 2023-03-24 00:29:29 --> Model "Site" initialized
+INFO - 2023-03-24 00:29:29 --> Controller Class Initialized
+INFO - 2023-03-24 00:29:29 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 00:29:29 --> Final output sent to browser
+DEBUG - 2023-03-24 00:29:29 --> Total execution time: 0.0504
+INFO - 2023-03-24 00:29:30 --> Config Class Initialized
+INFO - 2023-03-24 00:29:30 --> Hooks Class Initialized
+DEBUG - 2023-03-24 00:29:30 --> UTF-8 Support Enabled
+INFO - 2023-03-24 00:29:30 --> Utf8 Class Initialized
+INFO - 2023-03-24 00:29:30 --> URI Class Initialized
+INFO - 2023-03-24 00:29:30 --> Router Class Initialized
+INFO - 2023-03-24 00:29:30 --> Output Class Initialized
+INFO - 2023-03-24 00:29:30 --> Security Class Initialized
+DEBUG - 2023-03-24 00:29:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 00:29:30 --> Input Class Initialized
+INFO - 2023-03-24 00:29:30 --> Language Class Initialized
+INFO - 2023-03-24 00:29:30 --> Loader Class Initialized
+INFO - 2023-03-24 00:29:30 --> Helper loaded: url_helper
+INFO - 2023-03-24 00:29:30 --> Helper loaded: file_helper
+INFO - 2023-03-24 00:29:30 --> Helper loaded: useful_helper
+INFO - 2023-03-24 00:29:30 --> Helper loaded: date_helper
+INFO - 2023-03-24 00:29:30 --> Database Driver Class Initialized
+INFO - 2023-03-24 00:29:30 --> Email Class Initialized
+INFO - 2023-03-24 00:29:30 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 00:29:30 --> Helper loaded: form_helper
+INFO - 2023-03-24 00:29:30 --> Form Validation Class Initialized
+INFO - 2023-03-24 00:29:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 00:29:30 --> Pagination Class Initialized
+INFO - 2023-03-24 00:29:30 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 00:29:30 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 00:29:30 --> Model "Category" initialized
+INFO - 2023-03-24 00:29:30 --> Model "Media" initialized
+INFO - 2023-03-24 00:29:30 --> Model "Post" initialized
+INFO - 2023-03-24 00:29:30 --> Model "Tags" initialized
+INFO - 2023-03-24 00:29:30 --> Model "Comments" initialized
+INFO - 2023-03-24 00:29:30 --> Model "Subscription" initialized
+INFO - 2023-03-24 00:29:30 --> Model "Site" initialized
+INFO - 2023-03-24 00:29:30 --> Controller Class Initialized
+INFO - 2023-03-24 00:29:30 --> Helper loaded: cookie_helper
+INFO - 2023-03-24 00:29:30 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 00:29:30 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 00:29:30 --> File loaded: /www/wwwroot/citphy.org/application/views/singlepost.php
+INFO - 2023-03-24 00:29:30 --> Final output sent to browser
+DEBUG - 2023-03-24 00:29:30 --> Total execution time: 0.0625
+INFO - 2023-03-24 02:07:35 --> Config Class Initialized
+INFO - 2023-03-24 02:07:35 --> Hooks Class Initialized
+DEBUG - 2023-03-24 02:07:35 --> UTF-8 Support Enabled
+INFO - 2023-03-24 02:07:35 --> Utf8 Class Initialized
+INFO - 2023-03-24 02:07:35 --> URI Class Initialized
+INFO - 2023-03-24 02:07:35 --> Router Class Initialized
+INFO - 2023-03-24 02:07:35 --> Output Class Initialized
+INFO - 2023-03-24 02:07:35 --> Security Class Initialized
+DEBUG - 2023-03-24 02:07:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 02:07:35 --> Input Class Initialized
+INFO - 2023-03-24 02:07:35 --> Language Class Initialized
+INFO - 2023-03-24 02:07:35 --> Loader Class Initialized
+INFO - 2023-03-24 02:07:35 --> Helper loaded: url_helper
+INFO - 2023-03-24 02:07:35 --> Helper loaded: file_helper
+INFO - 2023-03-24 02:07:35 --> Helper loaded: useful_helper
+INFO - 2023-03-24 02:07:35 --> Helper loaded: date_helper
+INFO - 2023-03-24 02:07:35 --> Database Driver Class Initialized
+INFO - 2023-03-24 02:07:35 --> Email Class Initialized
+INFO - 2023-03-24 02:07:35 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 02:07:35 --> Helper loaded: form_helper
+INFO - 2023-03-24 02:07:35 --> Form Validation Class Initialized
+INFO - 2023-03-24 02:07:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 02:07:35 --> Pagination Class Initialized
+INFO - 2023-03-24 02:07:35 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 02:07:35 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 02:07:35 --> Model "Category" initialized
+INFO - 2023-03-24 02:07:35 --> Model "Media" initialized
+INFO - 2023-03-24 02:07:35 --> Model "Post" initialized
+INFO - 2023-03-24 02:07:35 --> Model "Tags" initialized
+INFO - 2023-03-24 02:07:35 --> Model "Comments" initialized
+INFO - 2023-03-24 02:07:35 --> Model "Subscription" initialized
+INFO - 2023-03-24 02:07:35 --> Model "Site" initialized
+INFO - 2023-03-24 02:07:35 --> Controller Class Initialized
+INFO - 2023-03-24 02:07:35 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 02:07:35 --> Final output sent to browser
+DEBUG - 2023-03-24 02:07:35 --> Total execution time: 0.0472
+INFO - 2023-03-24 03:32:13 --> Config Class Initialized
+INFO - 2023-03-24 03:32:13 --> Hooks Class Initialized
+DEBUG - 2023-03-24 03:32:13 --> UTF-8 Support Enabled
+INFO - 2023-03-24 03:32:13 --> Utf8 Class Initialized
+INFO - 2023-03-24 03:32:13 --> URI Class Initialized
+INFO - 2023-03-24 03:32:13 --> Router Class Initialized
+INFO - 2023-03-24 03:32:13 --> Output Class Initialized
+INFO - 2023-03-24 03:32:13 --> Security Class Initialized
+DEBUG - 2023-03-24 03:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 03:32:13 --> Input Class Initialized
+INFO - 2023-03-24 03:32:13 --> Language Class Initialized
+INFO - 2023-03-24 03:32:13 --> Loader Class Initialized
+INFO - 2023-03-24 03:32:13 --> Helper loaded: url_helper
+INFO - 2023-03-24 03:32:13 --> Helper loaded: file_helper
+INFO - 2023-03-24 03:32:13 --> Helper loaded: useful_helper
+INFO - 2023-03-24 03:32:13 --> Helper loaded: date_helper
+INFO - 2023-03-24 03:32:13 --> Database Driver Class Initialized
+INFO - 2023-03-24 03:32:13 --> Email Class Initialized
+INFO - 2023-03-24 03:32:13 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 03:32:13 --> Helper loaded: form_helper
+INFO - 2023-03-24 03:32:13 --> Form Validation Class Initialized
+INFO - 2023-03-24 03:32:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 03:32:13 --> Pagination Class Initialized
+INFO - 2023-03-24 03:32:13 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 03:32:13 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 03:32:13 --> Model "Category" initialized
+INFO - 2023-03-24 03:32:13 --> Model "Media" initialized
+INFO - 2023-03-24 03:32:13 --> Model "Post" initialized
+INFO - 2023-03-24 03:32:13 --> Model "Tags" initialized
+INFO - 2023-03-24 03:32:13 --> Model "Comments" initialized
+INFO - 2023-03-24 03:32:13 --> Model "Subscription" initialized
+INFO - 2023-03-24 03:32:13 --> Model "Site" initialized
+INFO - 2023-03-24 03:32:13 --> Controller Class Initialized
+INFO - 2023-03-24 03:32:13 --> Helper loaded: cookie_helper
+INFO - 2023-03-24 03:32:13 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 03:32:13 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 03:32:13 --> File loaded: /www/wwwroot/citphy.org/application/views/singlepost.php
+INFO - 2023-03-24 03:32:13 --> Final output sent to browser
+DEBUG - 2023-03-24 03:32:13 --> Total execution time: 0.0758
+INFO - 2023-03-24 05:16:01 --> Config Class Initialized
+INFO - 2023-03-24 05:16:01 --> Hooks Class Initialized
+DEBUG - 2023-03-24 05:16:01 --> UTF-8 Support Enabled
+INFO - 2023-03-24 05:16:01 --> Utf8 Class Initialized
+INFO - 2023-03-24 05:16:01 --> URI Class Initialized
+DEBUG - 2023-03-24 05:16:01 --> No URI present. Default controller set.
+INFO - 2023-03-24 05:16:01 --> Router Class Initialized
+INFO - 2023-03-24 05:16:01 --> Output Class Initialized
+INFO - 2023-03-24 05:16:01 --> Security Class Initialized
+DEBUG - 2023-03-24 05:16:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 05:16:01 --> Input Class Initialized
+INFO - 2023-03-24 05:16:01 --> Language Class Initialized
+INFO - 2023-03-24 05:16:01 --> Loader Class Initialized
+INFO - 2023-03-24 05:16:01 --> Helper loaded: url_helper
+INFO - 2023-03-24 05:16:01 --> Helper loaded: file_helper
+INFO - 2023-03-24 05:16:01 --> Helper loaded: useful_helper
+INFO - 2023-03-24 05:16:01 --> Helper loaded: date_helper
+INFO - 2023-03-24 05:16:01 --> Database Driver Class Initialized
+INFO - 2023-03-24 05:16:01 --> Email Class Initialized
+INFO - 2023-03-24 05:16:01 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 05:16:01 --> Helper loaded: form_helper
+INFO - 2023-03-24 05:16:01 --> Form Validation Class Initialized
+INFO - 2023-03-24 05:16:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 05:16:01 --> Pagination Class Initialized
+INFO - 2023-03-24 05:16:01 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 05:16:01 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 05:16:01 --> Model "Category" initialized
+INFO - 2023-03-24 05:16:01 --> Model "Media" initialized
+INFO - 2023-03-24 05:16:01 --> Model "Post" initialized
+INFO - 2023-03-24 05:16:01 --> Model "Tags" initialized
+INFO - 2023-03-24 05:16:01 --> Model "Comments" initialized
+INFO - 2023-03-24 05:16:01 --> Model "Subscription" initialized
+INFO - 2023-03-24 05:16:01 --> Model "Site" initialized
+INFO - 2023-03-24 05:16:01 --> Controller Class Initialized
+INFO - 2023-03-24 05:16:01 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 05:16:01 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 05:16:01 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 05:16:01 --> Final output sent to browser
+DEBUG - 2023-03-24 05:16:01 --> Total execution time: 0.0612
+INFO - 2023-03-24 07:02:49 --> Config Class Initialized
+INFO - 2023-03-24 07:02:49 --> Hooks Class Initialized
+DEBUG - 2023-03-24 07:02:49 --> UTF-8 Support Enabled
+INFO - 2023-03-24 07:02:49 --> Utf8 Class Initialized
+INFO - 2023-03-24 07:02:49 --> URI Class Initialized
+DEBUG - 2023-03-24 07:02:49 --> No URI present. Default controller set.
+INFO - 2023-03-24 07:02:49 --> Router Class Initialized
+INFO - 2023-03-24 07:02:49 --> Output Class Initialized
+INFO - 2023-03-24 07:02:49 --> Security Class Initialized
+DEBUG - 2023-03-24 07:02:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 07:02:49 --> Input Class Initialized
+INFO - 2023-03-24 07:02:49 --> Language Class Initialized
+INFO - 2023-03-24 07:02:49 --> Loader Class Initialized
+INFO - 2023-03-24 07:02:49 --> Helper loaded: url_helper
+INFO - 2023-03-24 07:02:49 --> Helper loaded: file_helper
+INFO - 2023-03-24 07:02:49 --> Helper loaded: useful_helper
+INFO - 2023-03-24 07:02:49 --> Helper loaded: date_helper
+INFO - 2023-03-24 07:02:49 --> Database Driver Class Initialized
+INFO - 2023-03-24 07:02:49 --> Email Class Initialized
+INFO - 2023-03-24 07:02:49 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 07:02:49 --> Helper loaded: form_helper
+INFO - 2023-03-24 07:02:49 --> Form Validation Class Initialized
+INFO - 2023-03-24 07:02:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 07:02:49 --> Pagination Class Initialized
+INFO - 2023-03-24 07:02:49 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 07:02:49 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 07:02:49 --> Model "Category" initialized
+INFO - 2023-03-24 07:02:49 --> Model "Media" initialized
+INFO - 2023-03-24 07:02:49 --> Model "Post" initialized
+INFO - 2023-03-24 07:02:49 --> Model "Tags" initialized
+INFO - 2023-03-24 07:02:49 --> Model "Comments" initialized
+INFO - 2023-03-24 07:02:49 --> Model "Subscription" initialized
+INFO - 2023-03-24 07:02:49 --> Model "Site" initialized
+INFO - 2023-03-24 07:02:49 --> Controller Class Initialized
+INFO - 2023-03-24 07:02:49 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 07:02:49 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 07:02:49 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 07:02:49 --> Final output sent to browser
+DEBUG - 2023-03-24 07:02:49 --> Total execution time: 0.0556
+INFO - 2023-03-24 07:02:50 --> Config Class Initialized
+INFO - 2023-03-24 07:02:50 --> Hooks Class Initialized
+DEBUG - 2023-03-24 07:02:50 --> UTF-8 Support Enabled
+INFO - 2023-03-24 07:02:50 --> Utf8 Class Initialized
+INFO - 2023-03-24 07:02:50 --> URI Class Initialized
+INFO - 2023-03-24 07:02:50 --> Router Class Initialized
+INFO - 2023-03-24 07:02:50 --> Output Class Initialized
+INFO - 2023-03-24 07:02:50 --> Security Class Initialized
+DEBUG - 2023-03-24 07:02:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 07:02:50 --> Input Class Initialized
+INFO - 2023-03-24 07:02:50 --> Language Class Initialized
+INFO - 2023-03-24 07:02:50 --> Loader Class Initialized
+INFO - 2023-03-24 07:02:50 --> Helper loaded: url_helper
+INFO - 2023-03-24 07:02:50 --> Helper loaded: file_helper
+INFO - 2023-03-24 07:02:50 --> Helper loaded: useful_helper
+INFO - 2023-03-24 07:02:50 --> Helper loaded: date_helper
+INFO - 2023-03-24 07:02:50 --> Database Driver Class Initialized
+INFO - 2023-03-24 07:02:51 --> Email Class Initialized
+INFO - 2023-03-24 07:02:51 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 07:02:51 --> Helper loaded: form_helper
+INFO - 2023-03-24 07:02:51 --> Form Validation Class Initialized
+INFO - 2023-03-24 07:02:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 07:02:51 --> Pagination Class Initialized
+INFO - 2023-03-24 07:02:51 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Category" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Media" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Post" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Tags" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Comments" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Subscription" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Site" initialized
+INFO - 2023-03-24 07:02:51 --> Controller Class Initialized
+INFO - 2023-03-24 07:02:51 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 07:02:51 --> Final output sent to browser
+DEBUG - 2023-03-24 07:02:51 --> Total execution time: 0.0594
+INFO - 2023-03-24 07:02:51 --> Config Class Initialized
+INFO - 2023-03-24 07:02:51 --> Hooks Class Initialized
+DEBUG - 2023-03-24 07:02:51 --> UTF-8 Support Enabled
+INFO - 2023-03-24 07:02:51 --> Utf8 Class Initialized
+INFO - 2023-03-24 07:02:51 --> URI Class Initialized
+INFO - 2023-03-24 07:02:51 --> Router Class Initialized
+INFO - 2023-03-24 07:02:51 --> Output Class Initialized
+INFO - 2023-03-24 07:02:51 --> Security Class Initialized
+DEBUG - 2023-03-24 07:02:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 07:02:51 --> Input Class Initialized
+INFO - 2023-03-24 07:02:51 --> Language Class Initialized
+INFO - 2023-03-24 07:02:51 --> Loader Class Initialized
+INFO - 2023-03-24 07:02:51 --> Helper loaded: url_helper
+INFO - 2023-03-24 07:02:51 --> Helper loaded: file_helper
+INFO - 2023-03-24 07:02:51 --> Helper loaded: useful_helper
+INFO - 2023-03-24 07:02:51 --> Helper loaded: date_helper
+INFO - 2023-03-24 07:02:51 --> Database Driver Class Initialized
+INFO - 2023-03-24 07:02:51 --> Email Class Initialized
+INFO - 2023-03-24 07:02:51 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 07:02:51 --> Helper loaded: form_helper
+INFO - 2023-03-24 07:02:51 --> Form Validation Class Initialized
+INFO - 2023-03-24 07:02:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 07:02:51 --> Pagination Class Initialized
+INFO - 2023-03-24 07:02:51 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Category" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Media" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Post" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Tags" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Comments" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Subscription" initialized
+INFO - 2023-03-24 07:02:51 --> Model "Site" initialized
+INFO - 2023-03-24 07:02:51 --> Controller Class Initialized
+INFO - 2023-03-24 07:02:51 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 07:02:51 --> Final output sent to browser
+DEBUG - 2023-03-24 07:02:51 --> Total execution time: 0.0548
+INFO - 2023-03-24 07:02:52 --> Config Class Initialized
+INFO - 2023-03-24 07:02:52 --> Hooks Class Initialized
+DEBUG - 2023-03-24 07:02:52 --> UTF-8 Support Enabled
+INFO - 2023-03-24 07:02:52 --> Utf8 Class Initialized
+INFO - 2023-03-24 07:02:52 --> URI Class Initialized
+DEBUG - 2023-03-24 07:02:52 --> No URI present. Default controller set.
+INFO - 2023-03-24 07:02:52 --> Router Class Initialized
+INFO - 2023-03-24 07:02:52 --> Output Class Initialized
+INFO - 2023-03-24 07:02:52 --> Security Class Initialized
+DEBUG - 2023-03-24 07:02:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 07:02:52 --> Input Class Initialized
+INFO - 2023-03-24 07:02:52 --> Language Class Initialized
+INFO - 2023-03-24 07:02:52 --> Loader Class Initialized
+INFO - 2023-03-24 07:02:52 --> Helper loaded: url_helper
+INFO - 2023-03-24 07:02:52 --> Helper loaded: file_helper
+INFO - 2023-03-24 07:02:52 --> Helper loaded: useful_helper
+INFO - 2023-03-24 07:02:52 --> Helper loaded: date_helper
+INFO - 2023-03-24 07:02:52 --> Database Driver Class Initialized
+INFO - 2023-03-24 07:02:52 --> Email Class Initialized
+INFO - 2023-03-24 07:02:52 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 07:02:52 --> Helper loaded: form_helper
+INFO - 2023-03-24 07:02:52 --> Form Validation Class Initialized
+INFO - 2023-03-24 07:02:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 07:02:52 --> Pagination Class Initialized
+INFO - 2023-03-24 07:02:52 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 07:02:52 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 07:02:52 --> Model "Category" initialized
+INFO - 2023-03-24 07:02:52 --> Model "Media" initialized
+INFO - 2023-03-24 07:02:52 --> Model "Post" initialized
+INFO - 2023-03-24 07:02:52 --> Model "Tags" initialized
+INFO - 2023-03-24 07:02:52 --> Model "Comments" initialized
+INFO - 2023-03-24 07:02:52 --> Model "Subscription" initialized
+INFO - 2023-03-24 07:02:52 --> Model "Site" initialized
+INFO - 2023-03-24 07:02:52 --> Controller Class Initialized
+INFO - 2023-03-24 07:02:52 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 07:02:52 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 07:02:52 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 07:02:52 --> Final output sent to browser
+DEBUG - 2023-03-24 07:02:52 --> Total execution time: 0.0545
+INFO - 2023-03-24 07:02:53 --> Config Class Initialized
+INFO - 2023-03-24 07:02:53 --> Hooks Class Initialized
+DEBUG - 2023-03-24 07:02:53 --> UTF-8 Support Enabled
+INFO - 2023-03-24 07:02:53 --> Utf8 Class Initialized
+INFO - 2023-03-24 07:02:53 --> URI Class Initialized
+DEBUG - 2023-03-24 07:02:53 --> No URI present. Default controller set.
+INFO - 2023-03-24 07:02:53 --> Router Class Initialized
+INFO - 2023-03-24 07:02:53 --> Output Class Initialized
+INFO - 2023-03-24 07:02:53 --> Security Class Initialized
+DEBUG - 2023-03-24 07:02:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 07:02:53 --> Input Class Initialized
+INFO - 2023-03-24 07:02:53 --> Language Class Initialized
+INFO - 2023-03-24 07:02:53 --> Loader Class Initialized
+INFO - 2023-03-24 07:02:53 --> Helper loaded: url_helper
+INFO - 2023-03-24 07:02:53 --> Helper loaded: file_helper
+INFO - 2023-03-24 07:02:53 --> Helper loaded: useful_helper
+INFO - 2023-03-24 07:02:53 --> Helper loaded: date_helper
+INFO - 2023-03-24 07:02:53 --> Database Driver Class Initialized
+INFO - 2023-03-24 07:02:53 --> Email Class Initialized
+INFO - 2023-03-24 07:02:53 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 07:02:53 --> Helper loaded: form_helper
+INFO - 2023-03-24 07:02:53 --> Form Validation Class Initialized
+INFO - 2023-03-24 07:02:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 07:02:53 --> Pagination Class Initialized
+INFO - 2023-03-24 07:02:53 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Category" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Media" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Post" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Tags" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Comments" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Subscription" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Site" initialized
+INFO - 2023-03-24 07:02:53 --> Controller Class Initialized
+INFO - 2023-03-24 07:02:53 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 07:02:53 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 07:02:53 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 07:02:53 --> Final output sent to browser
+DEBUG - 2023-03-24 07:02:53 --> Total execution time: 0.0554
+INFO - 2023-03-24 07:02:53 --> Config Class Initialized
+INFO - 2023-03-24 07:02:53 --> Hooks Class Initialized
+DEBUG - 2023-03-24 07:02:53 --> UTF-8 Support Enabled
+INFO - 2023-03-24 07:02:53 --> Utf8 Class Initialized
+INFO - 2023-03-24 07:02:53 --> URI Class Initialized
+DEBUG - 2023-03-24 07:02:53 --> No URI present. Default controller set.
+INFO - 2023-03-24 07:02:53 --> Router Class Initialized
+INFO - 2023-03-24 07:02:53 --> Output Class Initialized
+INFO - 2023-03-24 07:02:53 --> Security Class Initialized
+DEBUG - 2023-03-24 07:02:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 07:02:53 --> Input Class Initialized
+INFO - 2023-03-24 07:02:53 --> Language Class Initialized
+INFO - 2023-03-24 07:02:53 --> Loader Class Initialized
+INFO - 2023-03-24 07:02:53 --> Helper loaded: url_helper
+INFO - 2023-03-24 07:02:53 --> Helper loaded: file_helper
+INFO - 2023-03-24 07:02:53 --> Helper loaded: useful_helper
+INFO - 2023-03-24 07:02:53 --> Helper loaded: date_helper
+INFO - 2023-03-24 07:02:53 --> Database Driver Class Initialized
+INFO - 2023-03-24 07:02:53 --> Email Class Initialized
+INFO - 2023-03-24 07:02:53 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 07:02:53 --> Helper loaded: form_helper
+INFO - 2023-03-24 07:02:53 --> Form Validation Class Initialized
+INFO - 2023-03-24 07:02:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 07:02:53 --> Pagination Class Initialized
+INFO - 2023-03-24 07:02:53 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Category" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Media" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Post" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Tags" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Comments" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Subscription" initialized
+INFO - 2023-03-24 07:02:53 --> Model "Site" initialized
+INFO - 2023-03-24 07:02:53 --> Controller Class Initialized
+INFO - 2023-03-24 07:02:53 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 07:02:53 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 07:02:53 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 07:02:53 --> Final output sent to browser
+DEBUG - 2023-03-24 07:02:53 --> Total execution time: 0.0567
+INFO - 2023-03-24 07:55:48 --> Config Class Initialized
+INFO - 2023-03-24 07:55:48 --> Hooks Class Initialized
+DEBUG - 2023-03-24 07:55:48 --> UTF-8 Support Enabled
+INFO - 2023-03-24 07:55:48 --> Utf8 Class Initialized
+INFO - 2023-03-24 07:55:48 --> URI Class Initialized
+INFO - 2023-03-24 07:55:48 --> Router Class Initialized
+INFO - 2023-03-24 07:55:48 --> Output Class Initialized
+INFO - 2023-03-24 07:55:48 --> Security Class Initialized
+DEBUG - 2023-03-24 07:55:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 07:55:48 --> Input Class Initialized
+INFO - 2023-03-24 07:55:48 --> Language Class Initialized
+INFO - 2023-03-24 07:55:48 --> Loader Class Initialized
+INFO - 2023-03-24 07:55:48 --> Helper loaded: url_helper
+INFO - 2023-03-24 07:55:48 --> Helper loaded: file_helper
+INFO - 2023-03-24 07:55:48 --> Helper loaded: useful_helper
+INFO - 2023-03-24 07:55:48 --> Helper loaded: date_helper
+INFO - 2023-03-24 07:55:48 --> Database Driver Class Initialized
+INFO - 2023-03-24 07:55:48 --> Email Class Initialized
+INFO - 2023-03-24 07:55:48 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 07:55:48 --> Helper loaded: form_helper
+INFO - 2023-03-24 07:55:48 --> Form Validation Class Initialized
+INFO - 2023-03-24 07:55:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 07:55:48 --> Pagination Class Initialized
+INFO - 2023-03-24 07:55:48 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 07:55:48 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 07:55:48 --> Model "Category" initialized
+INFO - 2023-03-24 07:55:48 --> Model "Media" initialized
+INFO - 2023-03-24 07:55:48 --> Model "Post" initialized
+INFO - 2023-03-24 07:55:48 --> Model "Tags" initialized
+INFO - 2023-03-24 07:55:48 --> Model "Comments" initialized
+INFO - 2023-03-24 07:55:48 --> Model "Subscription" initialized
+INFO - 2023-03-24 07:55:48 --> Model "Site" initialized
+INFO - 2023-03-24 07:55:48 --> Controller Class Initialized
+INFO - 2023-03-24 07:55:48 --> Helper loaded: cookie_helper
+INFO - 2023-03-24 07:55:48 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 07:55:48 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 07:55:48 --> File loaded: /www/wwwroot/citphy.org/application/views/singlepost.php
+INFO - 2023-03-24 07:55:48 --> Final output sent to browser
+DEBUG - 2023-03-24 07:55:48 --> Total execution time: 0.0815
+INFO - 2023-03-24 07:57:43 --> Config Class Initialized
+INFO - 2023-03-24 07:57:43 --> Hooks Class Initialized
+DEBUG - 2023-03-24 07:57:43 --> UTF-8 Support Enabled
+INFO - 2023-03-24 07:57:43 --> Utf8 Class Initialized
+INFO - 2023-03-24 07:57:43 --> URI Class Initialized
+DEBUG - 2023-03-24 07:57:43 --> No URI present. Default controller set.
+INFO - 2023-03-24 07:57:43 --> Router Class Initialized
+INFO - 2023-03-24 07:57:43 --> Output Class Initialized
+INFO - 2023-03-24 07:57:43 --> Security Class Initialized
+DEBUG - 2023-03-24 07:57:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 07:57:43 --> Input Class Initialized
+INFO - 2023-03-24 07:57:43 --> Language Class Initialized
+INFO - 2023-03-24 07:57:43 --> Loader Class Initialized
+INFO - 2023-03-24 07:57:43 --> Helper loaded: url_helper
+INFO - 2023-03-24 07:57:43 --> Helper loaded: file_helper
+INFO - 2023-03-24 07:57:43 --> Helper loaded: useful_helper
+INFO - 2023-03-24 07:57:43 --> Helper loaded: date_helper
+INFO - 2023-03-24 07:57:43 --> Database Driver Class Initialized
+INFO - 2023-03-24 07:57:43 --> Email Class Initialized
+INFO - 2023-03-24 07:57:43 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 07:57:43 --> Helper loaded: form_helper
+INFO - 2023-03-24 07:57:43 --> Form Validation Class Initialized
+INFO - 2023-03-24 07:57:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 07:57:43 --> Pagination Class Initialized
+INFO - 2023-03-24 07:57:43 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 07:57:43 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 07:57:43 --> Model "Category" initialized
+INFO - 2023-03-24 07:57:43 --> Model "Media" initialized
+INFO - 2023-03-24 07:57:43 --> Model "Post" initialized
+INFO - 2023-03-24 07:57:43 --> Model "Tags" initialized
+INFO - 2023-03-24 07:57:43 --> Model "Comments" initialized
+INFO - 2023-03-24 07:57:43 --> Model "Subscription" initialized
+INFO - 2023-03-24 07:57:43 --> Model "Site" initialized
+INFO - 2023-03-24 07:57:43 --> Controller Class Initialized
+INFO - 2023-03-24 07:57:43 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 07:57:43 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 07:57:43 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 07:57:43 --> Final output sent to browser
+DEBUG - 2023-03-24 07:57:43 --> Total execution time: 0.0568
+INFO - 2023-03-24 07:57:50 --> Config Class Initialized
+INFO - 2023-03-24 07:57:50 --> Hooks Class Initialized
+DEBUG - 2023-03-24 07:57:50 --> UTF-8 Support Enabled
+INFO - 2023-03-24 07:57:50 --> Utf8 Class Initialized
+INFO - 2023-03-24 07:57:50 --> URI Class Initialized
+DEBUG - 2023-03-24 07:57:50 --> No URI present. Default controller set.
+INFO - 2023-03-24 07:57:50 --> Router Class Initialized
+INFO - 2023-03-24 07:57:50 --> Output Class Initialized
+INFO - 2023-03-24 07:57:50 --> Security Class Initialized
+DEBUG - 2023-03-24 07:57:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 07:57:50 --> Input Class Initialized
+INFO - 2023-03-24 07:57:50 --> Language Class Initialized
+INFO - 2023-03-24 07:57:50 --> Loader Class Initialized
+INFO - 2023-03-24 07:57:50 --> Helper loaded: url_helper
+INFO - 2023-03-24 07:57:50 --> Helper loaded: file_helper
+INFO - 2023-03-24 07:57:50 --> Helper loaded: useful_helper
+INFO - 2023-03-24 07:57:50 --> Helper loaded: date_helper
+INFO - 2023-03-24 07:57:50 --> Database Driver Class Initialized
+INFO - 2023-03-24 07:57:50 --> Email Class Initialized
+INFO - 2023-03-24 07:57:50 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 07:57:50 --> Helper loaded: form_helper
+INFO - 2023-03-24 07:57:50 --> Form Validation Class Initialized
+INFO - 2023-03-24 07:57:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 07:57:50 --> Pagination Class Initialized
+INFO - 2023-03-24 07:57:50 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 07:57:50 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 07:57:50 --> Model "Category" initialized
+INFO - 2023-03-24 07:57:50 --> Model "Media" initialized
+INFO - 2023-03-24 07:57:50 --> Model "Post" initialized
+INFO - 2023-03-24 07:57:50 --> Model "Tags" initialized
+INFO - 2023-03-24 07:57:50 --> Model "Comments" initialized
+INFO - 2023-03-24 07:57:50 --> Model "Subscription" initialized
+INFO - 2023-03-24 07:57:50 --> Model "Site" initialized
+INFO - 2023-03-24 07:57:50 --> Controller Class Initialized
+INFO - 2023-03-24 07:57:50 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 07:57:50 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 07:57:50 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 07:57:50 --> Final output sent to browser
+DEBUG - 2023-03-24 07:57:50 --> Total execution time: 0.0681
+INFO - 2023-03-24 07:58:25 --> Config Class Initialized
+INFO - 2023-03-24 07:58:25 --> Hooks Class Initialized
+DEBUG - 2023-03-24 07:58:25 --> UTF-8 Support Enabled
+INFO - 2023-03-24 07:58:25 --> Utf8 Class Initialized
+INFO - 2023-03-24 07:58:25 --> URI Class Initialized
+DEBUG - 2023-03-24 07:58:25 --> No URI present. Default controller set.
+INFO - 2023-03-24 07:58:25 --> Router Class Initialized
+INFO - 2023-03-24 07:58:25 --> Output Class Initialized
+INFO - 2023-03-24 07:58:25 --> Security Class Initialized
+DEBUG - 2023-03-24 07:58:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 07:58:25 --> Input Class Initialized
+INFO - 2023-03-24 07:58:25 --> Language Class Initialized
+INFO - 2023-03-24 07:58:25 --> Loader Class Initialized
+INFO - 2023-03-24 07:58:25 --> Helper loaded: url_helper
+INFO - 2023-03-24 07:58:25 --> Helper loaded: file_helper
+INFO - 2023-03-24 07:58:25 --> Helper loaded: useful_helper
+INFO - 2023-03-24 07:58:25 --> Helper loaded: date_helper
+INFO - 2023-03-24 07:58:25 --> Database Driver Class Initialized
+INFO - 2023-03-24 07:58:25 --> Email Class Initialized
+INFO - 2023-03-24 07:58:25 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 07:58:25 --> Helper loaded: form_helper
+INFO - 2023-03-24 07:58:25 --> Form Validation Class Initialized
+INFO - 2023-03-24 07:58:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 07:58:25 --> Pagination Class Initialized
+INFO - 2023-03-24 07:58:25 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 07:58:25 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 07:58:25 --> Model "Category" initialized
+INFO - 2023-03-24 07:58:25 --> Model "Media" initialized
+INFO - 2023-03-24 07:58:25 --> Model "Post" initialized
+INFO - 2023-03-24 07:58:25 --> Model "Tags" initialized
+INFO - 2023-03-24 07:58:25 --> Model "Comments" initialized
+INFO - 2023-03-24 07:58:25 --> Model "Subscription" initialized
+INFO - 2023-03-24 07:58:25 --> Model "Site" initialized
+INFO - 2023-03-24 07:58:25 --> Controller Class Initialized
+INFO - 2023-03-24 07:58:25 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 07:58:25 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 07:58:25 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 07:58:25 --> Final output sent to browser
+DEBUG - 2023-03-24 07:58:25 --> Total execution time: 0.0552
+INFO - 2023-03-24 08:38:08 --> Config Class Initialized
+INFO - 2023-03-24 08:38:08 --> Hooks Class Initialized
+DEBUG - 2023-03-24 08:38:08 --> UTF-8 Support Enabled
+INFO - 2023-03-24 08:38:08 --> Utf8 Class Initialized
+INFO - 2023-03-24 08:38:08 --> URI Class Initialized
+INFO - 2023-03-24 08:38:08 --> Router Class Initialized
+INFO - 2023-03-24 08:38:08 --> Output Class Initialized
+INFO - 2023-03-24 08:38:08 --> Security Class Initialized
+DEBUG - 2023-03-24 08:38:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 08:38:08 --> Input Class Initialized
+INFO - 2023-03-24 08:38:08 --> Language Class Initialized
+INFO - 2023-03-24 08:38:08 --> Loader Class Initialized
+INFO - 2023-03-24 08:38:08 --> Helper loaded: url_helper
+INFO - 2023-03-24 08:38:08 --> Helper loaded: file_helper
+INFO - 2023-03-24 08:38:08 --> Helper loaded: useful_helper
+INFO - 2023-03-24 08:38:08 --> Helper loaded: date_helper
+INFO - 2023-03-24 08:38:08 --> Database Driver Class Initialized
+INFO - 2023-03-24 08:38:08 --> Email Class Initialized
+INFO - 2023-03-24 08:38:08 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 08:38:08 --> Helper loaded: form_helper
+INFO - 2023-03-24 08:38:08 --> Form Validation Class Initialized
+INFO - 2023-03-24 08:38:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 08:38:08 --> Pagination Class Initialized
+INFO - 2023-03-24 08:38:08 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 08:38:08 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 08:38:08 --> Model "Category" initialized
+INFO - 2023-03-24 08:38:08 --> Model "Media" initialized
+INFO - 2023-03-24 08:38:08 --> Model "Post" initialized
+INFO - 2023-03-24 08:38:08 --> Model "Tags" initialized
+INFO - 2023-03-24 08:38:08 --> Model "Comments" initialized
+INFO - 2023-03-24 08:38:08 --> Model "Subscription" initialized
+INFO - 2023-03-24 08:38:08 --> Model "Site" initialized
+INFO - 2023-03-24 08:38:08 --> Controller Class Initialized
+INFO - 2023-03-24 08:38:08 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 08:38:08 --> Final output sent to browser
+DEBUG - 2023-03-24 08:38:08 --> Total execution time: 0.0484
+INFO - 2023-03-24 09:08:21 --> Config Class Initialized
+INFO - 2023-03-24 09:08:21 --> Hooks Class Initialized
+DEBUG - 2023-03-24 09:08:21 --> UTF-8 Support Enabled
+INFO - 2023-03-24 09:08:21 --> Utf8 Class Initialized
+INFO - 2023-03-24 09:08:21 --> URI Class Initialized
+DEBUG - 2023-03-24 09:08:21 --> No URI present. Default controller set.
+INFO - 2023-03-24 09:08:21 --> Router Class Initialized
+INFO - 2023-03-24 09:08:21 --> Output Class Initialized
+INFO - 2023-03-24 09:08:21 --> Security Class Initialized
+DEBUG - 2023-03-24 09:08:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 09:08:21 --> Input Class Initialized
+INFO - 2023-03-24 09:08:21 --> Language Class Initialized
+INFO - 2023-03-24 09:08:21 --> Loader Class Initialized
+INFO - 2023-03-24 09:08:21 --> Helper loaded: url_helper
+INFO - 2023-03-24 09:08:21 --> Helper loaded: file_helper
+INFO - 2023-03-24 09:08:21 --> Helper loaded: useful_helper
+INFO - 2023-03-24 09:08:21 --> Helper loaded: date_helper
+INFO - 2023-03-24 09:08:21 --> Database Driver Class Initialized
+INFO - 2023-03-24 09:08:21 --> Email Class Initialized
+INFO - 2023-03-24 09:08:21 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 09:08:21 --> Helper loaded: form_helper
+INFO - 2023-03-24 09:08:21 --> Form Validation Class Initialized
+INFO - 2023-03-24 09:08:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 09:08:21 --> Pagination Class Initialized
+INFO - 2023-03-24 09:08:21 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 09:08:21 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 09:08:21 --> Model "Category" initialized
+INFO - 2023-03-24 09:08:21 --> Model "Media" initialized
+INFO - 2023-03-24 09:08:21 --> Model "Post" initialized
+INFO - 2023-03-24 09:08:21 --> Model "Tags" initialized
+INFO - 2023-03-24 09:08:21 --> Model "Comments" initialized
+INFO - 2023-03-24 09:08:21 --> Model "Subscription" initialized
+INFO - 2023-03-24 09:08:21 --> Model "Site" initialized
+INFO - 2023-03-24 09:08:21 --> Controller Class Initialized
+INFO - 2023-03-24 09:08:21 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 09:08:21 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 09:08:21 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 09:08:21 --> Final output sent to browser
+DEBUG - 2023-03-24 09:08:21 --> Total execution time: 0.0669
+INFO - 2023-03-24 09:46:17 --> Config Class Initialized
+INFO - 2023-03-24 09:46:17 --> Hooks Class Initialized
+DEBUG - 2023-03-24 09:46:17 --> UTF-8 Support Enabled
+INFO - 2023-03-24 09:46:17 --> Utf8 Class Initialized
+INFO - 2023-03-24 09:46:17 --> URI Class Initialized
+DEBUG - 2023-03-24 09:46:17 --> No URI present. Default controller set.
+INFO - 2023-03-24 09:46:17 --> Router Class Initialized
+INFO - 2023-03-24 09:46:17 --> Output Class Initialized
+INFO - 2023-03-24 09:46:17 --> Security Class Initialized
+DEBUG - 2023-03-24 09:46:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 09:46:17 --> Input Class Initialized
+INFO - 2023-03-24 09:46:17 --> Language Class Initialized
+INFO - 2023-03-24 09:46:17 --> Loader Class Initialized
+INFO - 2023-03-24 09:46:17 --> Helper loaded: url_helper
+INFO - 2023-03-24 09:46:17 --> Helper loaded: file_helper
+INFO - 2023-03-24 09:46:17 --> Helper loaded: useful_helper
+INFO - 2023-03-24 09:46:17 --> Helper loaded: date_helper
+INFO - 2023-03-24 09:46:17 --> Database Driver Class Initialized
+INFO - 2023-03-24 09:46:17 --> Email Class Initialized
+INFO - 2023-03-24 09:46:17 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 09:46:17 --> Helper loaded: form_helper
+INFO - 2023-03-24 09:46:17 --> Form Validation Class Initialized
+INFO - 2023-03-24 09:46:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 09:46:17 --> Pagination Class Initialized
+INFO - 2023-03-24 09:46:17 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 09:46:17 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 09:46:17 --> Model "Category" initialized
+INFO - 2023-03-24 09:46:17 --> Model "Media" initialized
+INFO - 2023-03-24 09:46:17 --> Model "Post" initialized
+INFO - 2023-03-24 09:46:17 --> Model "Tags" initialized
+INFO - 2023-03-24 09:46:17 --> Model "Comments" initialized
+INFO - 2023-03-24 09:46:17 --> Model "Subscription" initialized
+INFO - 2023-03-24 09:46:17 --> Model "Site" initialized
+INFO - 2023-03-24 09:46:17 --> Controller Class Initialized
+INFO - 2023-03-24 09:46:17 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 09:46:17 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 09:46:17 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 09:46:17 --> Final output sent to browser
+DEBUG - 2023-03-24 09:46:17 --> Total execution time: 0.0533
+INFO - 2023-03-24 09:49:07 --> Config Class Initialized
+INFO - 2023-03-24 09:49:07 --> Hooks Class Initialized
+DEBUG - 2023-03-24 09:49:07 --> UTF-8 Support Enabled
+INFO - 2023-03-24 09:49:07 --> Utf8 Class Initialized
+INFO - 2023-03-24 09:49:07 --> URI Class Initialized
+DEBUG - 2023-03-24 09:49:07 --> No URI present. Default controller set.
+INFO - 2023-03-24 09:49:07 --> Router Class Initialized
+INFO - 2023-03-24 09:49:07 --> Output Class Initialized
+INFO - 2023-03-24 09:49:07 --> Security Class Initialized
+DEBUG - 2023-03-24 09:49:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 09:49:07 --> Input Class Initialized
+INFO - 2023-03-24 09:49:07 --> Language Class Initialized
+INFO - 2023-03-24 09:49:07 --> Loader Class Initialized
+INFO - 2023-03-24 09:49:07 --> Helper loaded: url_helper
+INFO - 2023-03-24 09:49:07 --> Helper loaded: file_helper
+INFO - 2023-03-24 09:49:07 --> Helper loaded: useful_helper
+INFO - 2023-03-24 09:49:07 --> Helper loaded: date_helper
+INFO - 2023-03-24 09:49:07 --> Database Driver Class Initialized
+INFO - 2023-03-24 09:49:07 --> Email Class Initialized
+INFO - 2023-03-24 09:49:07 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 09:49:07 --> Helper loaded: form_helper
+INFO - 2023-03-24 09:49:07 --> Form Validation Class Initialized
+INFO - 2023-03-24 09:49:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 09:49:07 --> Pagination Class Initialized
+INFO - 2023-03-24 09:49:07 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 09:49:07 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 09:49:07 --> Model "Category" initialized
+INFO - 2023-03-24 09:49:07 --> Model "Media" initialized
+INFO - 2023-03-24 09:49:07 --> Model "Post" initialized
+INFO - 2023-03-24 09:49:07 --> Model "Tags" initialized
+INFO - 2023-03-24 09:49:07 --> Model "Comments" initialized
+INFO - 2023-03-24 09:49:07 --> Model "Subscription" initialized
+INFO - 2023-03-24 09:49:07 --> Model "Site" initialized
+INFO - 2023-03-24 09:49:07 --> Controller Class Initialized
+INFO - 2023-03-24 09:49:07 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 09:49:07 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 09:49:07 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 09:49:07 --> Final output sent to browser
+DEBUG - 2023-03-24 09:49:07 --> Total execution time: 0.0545
+INFO - 2023-03-24 09:49:16 --> Config Class Initialized
+INFO - 2023-03-24 09:49:16 --> Hooks Class Initialized
+DEBUG - 2023-03-24 09:49:16 --> UTF-8 Support Enabled
+INFO - 2023-03-24 09:49:16 --> Utf8 Class Initialized
+INFO - 2023-03-24 09:49:16 --> URI Class Initialized
+INFO - 2023-03-24 09:49:16 --> Router Class Initialized
+INFO - 2023-03-24 09:49:16 --> Output Class Initialized
+INFO - 2023-03-24 09:49:16 --> Security Class Initialized
+DEBUG - 2023-03-24 09:49:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 09:49:16 --> Input Class Initialized
+INFO - 2023-03-24 09:49:16 --> Language Class Initialized
+INFO - 2023-03-24 09:49:16 --> Loader Class Initialized
+INFO - 2023-03-24 09:49:16 --> Helper loaded: url_helper
+INFO - 2023-03-24 09:49:16 --> Helper loaded: file_helper
+INFO - 2023-03-24 09:49:16 --> Helper loaded: useful_helper
+INFO - 2023-03-24 09:49:16 --> Helper loaded: date_helper
+INFO - 2023-03-24 09:49:16 --> Database Driver Class Initialized
+INFO - 2023-03-24 09:49:16 --> Email Class Initialized
+INFO - 2023-03-24 09:49:16 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 09:49:16 --> Helper loaded: form_helper
+INFO - 2023-03-24 09:49:16 --> Form Validation Class Initialized
+INFO - 2023-03-24 09:49:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 09:49:16 --> Pagination Class Initialized
+INFO - 2023-03-24 09:49:16 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 09:49:16 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 09:49:16 --> Model "Category" initialized
+INFO - 2023-03-24 09:49:16 --> Model "Media" initialized
+INFO - 2023-03-24 09:49:16 --> Model "Post" initialized
+INFO - 2023-03-24 09:49:16 --> Model "Tags" initialized
+INFO - 2023-03-24 09:49:16 --> Model "Comments" initialized
+INFO - 2023-03-24 09:49:16 --> Model "Subscription" initialized
+INFO - 2023-03-24 09:49:16 --> Model "Site" initialized
+INFO - 2023-03-24 09:49:16 --> Controller Class Initialized
+INFO - 2023-03-24 09:49:16 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 09:49:16 --> Final output sent to browser
+DEBUG - 2023-03-24 09:49:16 --> Total execution time: 0.0602
+INFO - 2023-03-24 11:26:53 --> Config Class Initialized
+INFO - 2023-03-24 11:26:53 --> Hooks Class Initialized
+DEBUG - 2023-03-24 11:26:53 --> UTF-8 Support Enabled
+INFO - 2023-03-24 11:26:53 --> Utf8 Class Initialized
+INFO - 2023-03-24 11:26:53 --> URI Class Initialized
+DEBUG - 2023-03-24 11:26:53 --> No URI present. Default controller set.
+INFO - 2023-03-24 11:26:53 --> Router Class Initialized
+INFO - 2023-03-24 11:26:53 --> Output Class Initialized
+INFO - 2023-03-24 11:26:53 --> Security Class Initialized
+DEBUG - 2023-03-24 11:26:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 11:26:53 --> Input Class Initialized
+INFO - 2023-03-24 11:26:53 --> Language Class Initialized
+INFO - 2023-03-24 11:26:53 --> Loader Class Initialized
+INFO - 2023-03-24 11:26:53 --> Helper loaded: url_helper
+INFO - 2023-03-24 11:26:53 --> Helper loaded: file_helper
+INFO - 2023-03-24 11:26:53 --> Helper loaded: useful_helper
+INFO - 2023-03-24 11:26:53 --> Helper loaded: date_helper
+INFO - 2023-03-24 11:26:53 --> Database Driver Class Initialized
+INFO - 2023-03-24 11:26:53 --> Email Class Initialized
+INFO - 2023-03-24 11:26:53 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 11:26:53 --> Helper loaded: form_helper
+INFO - 2023-03-24 11:26:53 --> Form Validation Class Initialized
+INFO - 2023-03-24 11:26:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 11:26:53 --> Pagination Class Initialized
+INFO - 2023-03-24 11:26:53 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Category" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Media" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Post" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Tags" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Comments" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Subscription" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Site" initialized
+INFO - 2023-03-24 11:26:53 --> Controller Class Initialized
+INFO - 2023-03-24 11:26:53 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 11:26:53 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 11:26:53 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 11:26:53 --> Final output sent to browser
+DEBUG - 2023-03-24 11:26:53 --> Total execution time: 0.0538
+INFO - 2023-03-24 11:26:53 --> Config Class Initialized
+INFO - 2023-03-24 11:26:53 --> Hooks Class Initialized
+DEBUG - 2023-03-24 11:26:53 --> UTF-8 Support Enabled
+INFO - 2023-03-24 11:26:53 --> Utf8 Class Initialized
+INFO - 2023-03-24 11:26:53 --> URI Class Initialized
+INFO - 2023-03-24 11:26:53 --> Router Class Initialized
+INFO - 2023-03-24 11:26:53 --> Output Class Initialized
+INFO - 2023-03-24 11:26:53 --> Security Class Initialized
+DEBUG - 2023-03-24 11:26:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 11:26:53 --> Input Class Initialized
+INFO - 2023-03-24 11:26:53 --> Language Class Initialized
+INFO - 2023-03-24 11:26:53 --> Loader Class Initialized
+INFO - 2023-03-24 11:26:53 --> Helper loaded: url_helper
+INFO - 2023-03-24 11:26:53 --> Helper loaded: file_helper
+INFO - 2023-03-24 11:26:53 --> Helper loaded: useful_helper
+INFO - 2023-03-24 11:26:53 --> Helper loaded: date_helper
+INFO - 2023-03-24 11:26:53 --> Database Driver Class Initialized
+INFO - 2023-03-24 11:26:53 --> Email Class Initialized
+INFO - 2023-03-24 11:26:53 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 11:26:53 --> Helper loaded: form_helper
+INFO - 2023-03-24 11:26:53 --> Form Validation Class Initialized
+INFO - 2023-03-24 11:26:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 11:26:53 --> Pagination Class Initialized
+INFO - 2023-03-24 11:26:53 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Category" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Media" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Post" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Tags" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Comments" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Subscription" initialized
+INFO - 2023-03-24 11:26:53 --> Model "Site" initialized
+INFO - 2023-03-24 11:26:53 --> Controller Class Initialized
+INFO - 2023-03-24 11:26:53 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 11:26:53 --> Final output sent to browser
+DEBUG - 2023-03-24 11:26:53 --> Total execution time: 0.0491
+INFO - 2023-03-24 11:26:54 --> Config Class Initialized
+INFO - 2023-03-24 11:26:54 --> Hooks Class Initialized
+DEBUG - 2023-03-24 11:26:54 --> UTF-8 Support Enabled
+INFO - 2023-03-24 11:26:54 --> Utf8 Class Initialized
+INFO - 2023-03-24 11:26:54 --> URI Class Initialized
+INFO - 2023-03-24 11:26:54 --> Router Class Initialized
+INFO - 2023-03-24 11:26:54 --> Output Class Initialized
+INFO - 2023-03-24 11:26:54 --> Security Class Initialized
+DEBUG - 2023-03-24 11:26:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 11:26:54 --> Input Class Initialized
+INFO - 2023-03-24 11:26:54 --> Language Class Initialized
+INFO - 2023-03-24 11:26:54 --> Loader Class Initialized
+INFO - 2023-03-24 11:26:54 --> Helper loaded: url_helper
+INFO - 2023-03-24 11:26:54 --> Helper loaded: file_helper
+INFO - 2023-03-24 11:26:54 --> Helper loaded: useful_helper
+INFO - 2023-03-24 11:26:54 --> Helper loaded: date_helper
+INFO - 2023-03-24 11:26:54 --> Database Driver Class Initialized
+INFO - 2023-03-24 11:26:54 --> Email Class Initialized
+INFO - 2023-03-24 11:26:54 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 11:26:54 --> Helper loaded: form_helper
+INFO - 2023-03-24 11:26:54 --> Form Validation Class Initialized
+INFO - 2023-03-24 11:26:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 11:26:54 --> Pagination Class Initialized
+INFO - 2023-03-24 11:26:54 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 11:26:54 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 11:26:54 --> Model "Category" initialized
+INFO - 2023-03-24 11:26:54 --> Model "Media" initialized
+INFO - 2023-03-24 11:26:54 --> Model "Post" initialized
+INFO - 2023-03-24 11:26:54 --> Model "Tags" initialized
+INFO - 2023-03-24 11:26:54 --> Model "Comments" initialized
+INFO - 2023-03-24 11:26:54 --> Model "Subscription" initialized
+INFO - 2023-03-24 11:26:54 --> Model "Site" initialized
+INFO - 2023-03-24 11:26:54 --> Controller Class Initialized
+INFO - 2023-03-24 11:26:54 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 11:26:54 --> Final output sent to browser
+DEBUG - 2023-03-24 11:26:54 --> Total execution time: 0.0484
+INFO - 2023-03-24 11:26:55 --> Config Class Initialized
+INFO - 2023-03-24 11:26:55 --> Hooks Class Initialized
+DEBUG - 2023-03-24 11:26:55 --> UTF-8 Support Enabled
+INFO - 2023-03-24 11:26:55 --> Utf8 Class Initialized
+INFO - 2023-03-24 11:26:55 --> URI Class Initialized
+DEBUG - 2023-03-24 11:26:55 --> No URI present. Default controller set.
+INFO - 2023-03-24 11:26:55 --> Router Class Initialized
+INFO - 2023-03-24 11:26:55 --> Output Class Initialized
+INFO - 2023-03-24 11:26:55 --> Security Class Initialized
+DEBUG - 2023-03-24 11:26:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 11:26:55 --> Input Class Initialized
+INFO - 2023-03-24 11:26:55 --> Language Class Initialized
+INFO - 2023-03-24 11:26:55 --> Loader Class Initialized
+INFO - 2023-03-24 11:26:55 --> Helper loaded: url_helper
+INFO - 2023-03-24 11:26:55 --> Helper loaded: file_helper
+INFO - 2023-03-24 11:26:55 --> Helper loaded: useful_helper
+INFO - 2023-03-24 11:26:55 --> Helper loaded: date_helper
+INFO - 2023-03-24 11:26:55 --> Database Driver Class Initialized
+INFO - 2023-03-24 11:26:55 --> Email Class Initialized
+INFO - 2023-03-24 11:26:55 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 11:26:55 --> Helper loaded: form_helper
+INFO - 2023-03-24 11:26:55 --> Form Validation Class Initialized
+INFO - 2023-03-24 11:26:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 11:26:55 --> Pagination Class Initialized
+INFO - 2023-03-24 11:26:55 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 11:26:55 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 11:26:55 --> Model "Category" initialized
+INFO - 2023-03-24 11:26:55 --> Model "Media" initialized
+INFO - 2023-03-24 11:26:55 --> Model "Post" initialized
+INFO - 2023-03-24 11:26:55 --> Model "Tags" initialized
+INFO - 2023-03-24 11:26:55 --> Model "Comments" initialized
+INFO - 2023-03-24 11:26:55 --> Model "Subscription" initialized
+INFO - 2023-03-24 11:26:55 --> Model "Site" initialized
+INFO - 2023-03-24 11:26:55 --> Controller Class Initialized
+INFO - 2023-03-24 11:26:55 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 11:26:55 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 11:26:55 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 11:26:55 --> Final output sent to browser
+DEBUG - 2023-03-24 11:26:55 --> Total execution time: 0.0549
+INFO - 2023-03-24 11:26:55 --> Config Class Initialized
+INFO - 2023-03-24 11:26:55 --> Hooks Class Initialized
+DEBUG - 2023-03-24 11:26:55 --> UTF-8 Support Enabled
+INFO - 2023-03-24 11:26:55 --> Utf8 Class Initialized
+INFO - 2023-03-24 11:26:55 --> URI Class Initialized
+DEBUG - 2023-03-24 11:26:55 --> No URI present. Default controller set.
+INFO - 2023-03-24 11:26:55 --> Router Class Initialized
+INFO - 2023-03-24 11:26:55 --> Output Class Initialized
+INFO - 2023-03-24 11:26:55 --> Security Class Initialized
+DEBUG - 2023-03-24 11:26:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 11:26:55 --> Input Class Initialized
+INFO - 2023-03-24 11:26:55 --> Language Class Initialized
+INFO - 2023-03-24 11:26:55 --> Loader Class Initialized
+INFO - 2023-03-24 11:26:55 --> Helper loaded: url_helper
+INFO - 2023-03-24 11:26:55 --> Helper loaded: file_helper
+INFO - 2023-03-24 11:26:55 --> Helper loaded: useful_helper
+INFO - 2023-03-24 11:26:55 --> Helper loaded: date_helper
+INFO - 2023-03-24 11:26:55 --> Database Driver Class Initialized
+INFO - 2023-03-24 11:26:55 --> Email Class Initialized
+INFO - 2023-03-24 11:26:55 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 11:26:55 --> Helper loaded: form_helper
+INFO - 2023-03-24 11:26:55 --> Form Validation Class Initialized
+INFO - 2023-03-24 11:26:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 11:26:55 --> Pagination Class Initialized
+INFO - 2023-03-24 11:26:55 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 11:26:55 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 11:26:55 --> Model "Category" initialized
+INFO - 2023-03-24 11:26:56 --> Model "Media" initialized
+INFO - 2023-03-24 11:26:56 --> Model "Post" initialized
+INFO - 2023-03-24 11:26:56 --> Model "Tags" initialized
+INFO - 2023-03-24 11:26:56 --> Model "Comments" initialized
+INFO - 2023-03-24 11:26:56 --> Model "Subscription" initialized
+INFO - 2023-03-24 11:26:56 --> Model "Site" initialized
+INFO - 2023-03-24 11:26:56 --> Controller Class Initialized
+INFO - 2023-03-24 11:26:56 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 11:26:56 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 11:26:56 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 11:26:56 --> Final output sent to browser
+DEBUG - 2023-03-24 11:26:56 --> Total execution time: 0.0536
+INFO - 2023-03-24 11:26:56 --> Config Class Initialized
+INFO - 2023-03-24 11:26:56 --> Hooks Class Initialized
+DEBUG - 2023-03-24 11:26:56 --> UTF-8 Support Enabled
+INFO - 2023-03-24 11:26:56 --> Utf8 Class Initialized
+INFO - 2023-03-24 11:26:56 --> URI Class Initialized
+DEBUG - 2023-03-24 11:26:56 --> No URI present. Default controller set.
+INFO - 2023-03-24 11:26:56 --> Router Class Initialized
+INFO - 2023-03-24 11:26:56 --> Output Class Initialized
+INFO - 2023-03-24 11:26:56 --> Security Class Initialized
+DEBUG - 2023-03-24 11:26:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 11:26:56 --> Input Class Initialized
+INFO - 2023-03-24 11:26:56 --> Language Class Initialized
+INFO - 2023-03-24 11:26:56 --> Loader Class Initialized
+INFO - 2023-03-24 11:26:56 --> Helper loaded: url_helper
+INFO - 2023-03-24 11:26:56 --> Helper loaded: file_helper
+INFO - 2023-03-24 11:26:56 --> Helper loaded: useful_helper
+INFO - 2023-03-24 11:26:56 --> Helper loaded: date_helper
+INFO - 2023-03-24 11:26:56 --> Database Driver Class Initialized
+INFO - 2023-03-24 11:26:56 --> Email Class Initialized
+INFO - 2023-03-24 11:26:56 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 11:26:56 --> Helper loaded: form_helper
+INFO - 2023-03-24 11:26:56 --> Form Validation Class Initialized
+INFO - 2023-03-24 11:26:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 11:26:56 --> Pagination Class Initialized
+INFO - 2023-03-24 11:26:56 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 11:26:56 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 11:26:56 --> Model "Category" initialized
+INFO - 2023-03-24 11:26:56 --> Model "Media" initialized
+INFO - 2023-03-24 11:26:56 --> Model "Post" initialized
+INFO - 2023-03-24 11:26:56 --> Model "Tags" initialized
+INFO - 2023-03-24 11:26:56 --> Model "Comments" initialized
+INFO - 2023-03-24 11:26:56 --> Model "Subscription" initialized
+INFO - 2023-03-24 11:26:56 --> Model "Site" initialized
+INFO - 2023-03-24 11:26:56 --> Controller Class Initialized
+INFO - 2023-03-24 11:26:56 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 11:26:56 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 11:26:56 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 11:26:56 --> Final output sent to browser
+DEBUG - 2023-03-24 11:26:56 --> Total execution time: 0.0541
+INFO - 2023-03-24 12:13:21 --> Config Class Initialized
+INFO - 2023-03-24 12:13:21 --> Hooks Class Initialized
+DEBUG - 2023-03-24 12:13:21 --> UTF-8 Support Enabled
+INFO - 2023-03-24 12:13:21 --> Utf8 Class Initialized
+INFO - 2023-03-24 12:13:21 --> URI Class Initialized
+INFO - 2023-03-24 12:13:21 --> Router Class Initialized
+INFO - 2023-03-24 12:13:21 --> Output Class Initialized
+INFO - 2023-03-24 12:13:21 --> Security Class Initialized
+DEBUG - 2023-03-24 12:13:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 12:13:21 --> Input Class Initialized
+INFO - 2023-03-24 12:13:21 --> Language Class Initialized
+INFO - 2023-03-24 12:13:21 --> Loader Class Initialized
+INFO - 2023-03-24 12:13:21 --> Helper loaded: url_helper
+INFO - 2023-03-24 12:13:21 --> Helper loaded: file_helper
+INFO - 2023-03-24 12:13:21 --> Helper loaded: useful_helper
+INFO - 2023-03-24 12:13:21 --> Helper loaded: date_helper
+INFO - 2023-03-24 12:13:21 --> Database Driver Class Initialized
+INFO - 2023-03-24 12:13:21 --> Email Class Initialized
+INFO - 2023-03-24 12:13:21 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 12:13:21 --> Helper loaded: form_helper
+INFO - 2023-03-24 12:13:21 --> Form Validation Class Initialized
+INFO - 2023-03-24 12:13:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 12:13:21 --> Pagination Class Initialized
+INFO - 2023-03-24 12:13:21 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 12:13:21 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 12:13:21 --> Model "Category" initialized
+INFO - 2023-03-24 12:13:21 --> Model "Media" initialized
+INFO - 2023-03-24 12:13:21 --> Model "Post" initialized
+INFO - 2023-03-24 12:13:21 --> Model "Tags" initialized
+INFO - 2023-03-24 12:13:21 --> Model "Comments" initialized
+INFO - 2023-03-24 12:13:21 --> Model "Subscription" initialized
+INFO - 2023-03-24 12:13:21 --> Model "Site" initialized
+INFO - 2023-03-24 12:13:21 --> Controller Class Initialized
+INFO - 2023-03-24 12:13:21 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 12:13:21 --> Final output sent to browser
+DEBUG - 2023-03-24 12:13:21 --> Total execution time: 0.0589
+INFO - 2023-03-24 14:27:20 --> Config Class Initialized
+INFO - 2023-03-24 14:27:20 --> Hooks Class Initialized
+DEBUG - 2023-03-24 14:27:20 --> UTF-8 Support Enabled
+INFO - 2023-03-24 14:27:20 --> Utf8 Class Initialized
+INFO - 2023-03-24 14:27:20 --> URI Class Initialized
+INFO - 2023-03-24 14:27:20 --> Router Class Initialized
+INFO - 2023-03-24 14:27:20 --> Output Class Initialized
+INFO - 2023-03-24 14:27:20 --> Security Class Initialized
+DEBUG - 2023-03-24 14:27:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 14:27:20 --> Input Class Initialized
+INFO - 2023-03-24 14:27:20 --> Language Class Initialized
+INFO - 2023-03-24 14:27:20 --> Loader Class Initialized
+INFO - 2023-03-24 14:27:20 --> Helper loaded: url_helper
+INFO - 2023-03-24 14:27:20 --> Helper loaded: file_helper
+INFO - 2023-03-24 14:27:20 --> Helper loaded: useful_helper
+INFO - 2023-03-24 14:27:20 --> Helper loaded: date_helper
+INFO - 2023-03-24 14:27:20 --> Database Driver Class Initialized
+INFO - 2023-03-24 14:27:20 --> Email Class Initialized
+INFO - 2023-03-24 14:27:20 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 14:27:20 --> Helper loaded: form_helper
+INFO - 2023-03-24 14:27:20 --> Form Validation Class Initialized
+INFO - 2023-03-24 14:27:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 14:27:20 --> Pagination Class Initialized
+INFO - 2023-03-24 14:27:20 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 14:27:20 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 14:27:20 --> Model "Category" initialized
+INFO - 2023-03-24 14:27:20 --> Model "Media" initialized
+INFO - 2023-03-24 14:27:20 --> Model "Post" initialized
+INFO - 2023-03-24 14:27:20 --> Model "Tags" initialized
+INFO - 2023-03-24 14:27:20 --> Model "Comments" initialized
+INFO - 2023-03-24 14:27:20 --> Model "Subscription" initialized
+INFO - 2023-03-24 14:27:20 --> Model "Site" initialized
+INFO - 2023-03-24 14:27:20 --> Controller Class Initialized
+INFO - 2023-03-24 14:27:20 --> Helper loaded: cookie_helper
+INFO - 2023-03-24 14:27:20 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 14:27:20 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 14:27:20 --> File loaded: /www/wwwroot/citphy.org/application/views/singlepost.php
+INFO - 2023-03-24 14:27:20 --> Final output sent to browser
+DEBUG - 2023-03-24 14:27:20 --> Total execution time: 0.0743
+INFO - 2023-03-24 15:36:41 --> Config Class Initialized
+INFO - 2023-03-24 15:36:41 --> Hooks Class Initialized
+DEBUG - 2023-03-24 15:36:41 --> UTF-8 Support Enabled
+INFO - 2023-03-24 15:36:41 --> Utf8 Class Initialized
+INFO - 2023-03-24 15:36:41 --> URI Class Initialized
+DEBUG - 2023-03-24 15:36:41 --> No URI present. Default controller set.
+INFO - 2023-03-24 15:36:41 --> Router Class Initialized
+INFO - 2023-03-24 15:36:41 --> Output Class Initialized
+INFO - 2023-03-24 15:36:41 --> Security Class Initialized
+DEBUG - 2023-03-24 15:36:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 15:36:41 --> Input Class Initialized
+INFO - 2023-03-24 15:36:41 --> Language Class Initialized
+INFO - 2023-03-24 15:36:41 --> Loader Class Initialized
+INFO - 2023-03-24 15:36:41 --> Helper loaded: url_helper
+INFO - 2023-03-24 15:36:41 --> Helper loaded: file_helper
+INFO - 2023-03-24 15:36:41 --> Helper loaded: useful_helper
+INFO - 2023-03-24 15:36:41 --> Helper loaded: date_helper
+INFO - 2023-03-24 15:36:41 --> Database Driver Class Initialized
+INFO - 2023-03-24 15:36:41 --> Email Class Initialized
+INFO - 2023-03-24 15:36:41 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 15:36:41 --> Helper loaded: form_helper
+INFO - 2023-03-24 15:36:41 --> Form Validation Class Initialized
+INFO - 2023-03-24 15:36:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 15:36:41 --> Pagination Class Initialized
+INFO - 2023-03-24 15:36:41 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 15:36:41 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 15:36:41 --> Model "Category" initialized
+INFO - 2023-03-24 15:36:41 --> Model "Media" initialized
+INFO - 2023-03-24 15:36:41 --> Model "Post" initialized
+INFO - 2023-03-24 15:36:41 --> Model "Tags" initialized
+INFO - 2023-03-24 15:36:41 --> Model "Comments" initialized
+INFO - 2023-03-24 15:36:41 --> Model "Subscription" initialized
+INFO - 2023-03-24 15:36:41 --> Model "Site" initialized
+INFO - 2023-03-24 15:36:41 --> Controller Class Initialized
+INFO - 2023-03-24 15:36:41 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 15:36:41 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 15:36:41 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 15:36:41 --> Final output sent to browser
+DEBUG - 2023-03-24 15:36:41 --> Total execution time: 0.0547
+INFO - 2023-03-24 15:36:43 --> Config Class Initialized
+INFO - 2023-03-24 15:36:43 --> Hooks Class Initialized
+DEBUG - 2023-03-24 15:36:43 --> UTF-8 Support Enabled
+INFO - 2023-03-24 15:36:43 --> Utf8 Class Initialized
+INFO - 2023-03-24 15:36:43 --> URI Class Initialized
+DEBUG - 2023-03-24 15:36:43 --> No URI present. Default controller set.
+INFO - 2023-03-24 15:36:43 --> Router Class Initialized
+INFO - 2023-03-24 15:36:43 --> Output Class Initialized
+INFO - 2023-03-24 15:36:43 --> Security Class Initialized
+DEBUG - 2023-03-24 15:36:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 15:36:43 --> Input Class Initialized
+INFO - 2023-03-24 15:36:43 --> Language Class Initialized
+INFO - 2023-03-24 15:36:43 --> Loader Class Initialized
+INFO - 2023-03-24 15:36:43 --> Helper loaded: url_helper
+INFO - 2023-03-24 15:36:43 --> Helper loaded: file_helper
+INFO - 2023-03-24 15:36:43 --> Helper loaded: useful_helper
+INFO - 2023-03-24 15:36:43 --> Helper loaded: date_helper
+INFO - 2023-03-24 15:36:43 --> Database Driver Class Initialized
+INFO - 2023-03-24 15:36:43 --> Email Class Initialized
+INFO - 2023-03-24 15:36:43 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 15:36:43 --> Helper loaded: form_helper
+INFO - 2023-03-24 15:36:43 --> Form Validation Class Initialized
+INFO - 2023-03-24 15:36:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 15:36:43 --> Pagination Class Initialized
+INFO - 2023-03-24 15:36:43 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 15:36:43 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 15:36:43 --> Model "Category" initialized
+INFO - 2023-03-24 15:36:43 --> Model "Media" initialized
+INFO - 2023-03-24 15:36:43 --> Model "Post" initialized
+INFO - 2023-03-24 15:36:43 --> Model "Tags" initialized
+INFO - 2023-03-24 15:36:43 --> Model "Comments" initialized
+INFO - 2023-03-24 15:36:43 --> Model "Subscription" initialized
+INFO - 2023-03-24 15:36:43 --> Model "Site" initialized
+INFO - 2023-03-24 15:36:43 --> Controller Class Initialized
+INFO - 2023-03-24 15:36:43 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 15:36:43 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 15:36:43 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 15:36:43 --> Final output sent to browser
+DEBUG - 2023-03-24 15:36:43 --> Total execution time: 0.0544
+INFO - 2023-03-24 16:13:19 --> Config Class Initialized
+INFO - 2023-03-24 16:13:19 --> Hooks Class Initialized
+DEBUG - 2023-03-24 16:13:19 --> UTF-8 Support Enabled
+INFO - 2023-03-24 16:13:19 --> Utf8 Class Initialized
+INFO - 2023-03-24 16:13:19 --> URI Class Initialized
+INFO - 2023-03-24 16:13:19 --> Router Class Initialized
+INFO - 2023-03-24 16:13:19 --> Output Class Initialized
+INFO - 2023-03-24 16:13:19 --> Security Class Initialized
+DEBUG - 2023-03-24 16:13:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 16:13:19 --> Input Class Initialized
+INFO - 2023-03-24 16:13:19 --> Language Class Initialized
+INFO - 2023-03-24 16:13:19 --> Loader Class Initialized
+INFO - 2023-03-24 16:13:19 --> Helper loaded: url_helper
+INFO - 2023-03-24 16:13:19 --> Helper loaded: file_helper
+INFO - 2023-03-24 16:13:19 --> Helper loaded: useful_helper
+INFO - 2023-03-24 16:13:19 --> Helper loaded: date_helper
+INFO - 2023-03-24 16:13:19 --> Database Driver Class Initialized
+INFO - 2023-03-24 16:13:19 --> Email Class Initialized
+INFO - 2023-03-24 16:13:19 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 16:13:19 --> Helper loaded: form_helper
+INFO - 2023-03-24 16:13:19 --> Form Validation Class Initialized
+INFO - 2023-03-24 16:13:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 16:13:19 --> Pagination Class Initialized
+INFO - 2023-03-24 16:13:19 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 16:13:19 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 16:13:19 --> Model "Category" initialized
+INFO - 2023-03-24 16:13:19 --> Model "Media" initialized
+INFO - 2023-03-24 16:13:19 --> Model "Post" initialized
+INFO - 2023-03-24 16:13:19 --> Model "Tags" initialized
+INFO - 2023-03-24 16:13:19 --> Model "Comments" initialized
+INFO - 2023-03-24 16:13:19 --> Model "Subscription" initialized
+INFO - 2023-03-24 16:13:19 --> Model "Site" initialized
+INFO - 2023-03-24 16:13:19 --> Controller Class Initialized
+INFO - 2023-03-24 16:13:19 --> Helper loaded: cookie_helper
+INFO - 2023-03-24 16:13:19 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 16:13:19 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 16:13:19 --> File loaded: /www/wwwroot/citphy.org/application/views/singlepost.php
+INFO - 2023-03-24 16:13:19 --> Final output sent to browser
+DEBUG - 2023-03-24 16:13:19 --> Total execution time: 0.0625
+INFO - 2023-03-24 22:15:54 --> Config Class Initialized
+INFO - 2023-03-24 22:15:54 --> Hooks Class Initialized
+DEBUG - 2023-03-24 22:15:54 --> UTF-8 Support Enabled
+INFO - 2023-03-24 22:15:54 --> Utf8 Class Initialized
+INFO - 2023-03-24 22:15:54 --> URI Class Initialized
+DEBUG - 2023-03-24 22:15:54 --> No URI present. Default controller set.
+INFO - 2023-03-24 22:15:54 --> Router Class Initialized
+INFO - 2023-03-24 22:15:54 --> Output Class Initialized
+INFO - 2023-03-24 22:15:54 --> Security Class Initialized
+DEBUG - 2023-03-24 22:15:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 22:15:54 --> Input Class Initialized
+INFO - 2023-03-24 22:15:54 --> Language Class Initialized
+INFO - 2023-03-24 22:15:54 --> Loader Class Initialized
+INFO - 2023-03-24 22:15:54 --> Helper loaded: url_helper
+INFO - 2023-03-24 22:15:54 --> Helper loaded: file_helper
+INFO - 2023-03-24 22:15:54 --> Helper loaded: useful_helper
+INFO - 2023-03-24 22:15:54 --> Helper loaded: date_helper
+INFO - 2023-03-24 22:15:54 --> Database Driver Class Initialized
+INFO - 2023-03-24 22:15:54 --> Email Class Initialized
+INFO - 2023-03-24 22:15:54 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 22:15:54 --> Helper loaded: form_helper
+INFO - 2023-03-24 22:15:54 --> Form Validation Class Initialized
+INFO - 2023-03-24 22:15:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 22:15:54 --> Pagination Class Initialized
+INFO - 2023-03-24 22:15:54 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 22:15:54 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 22:15:54 --> Model "Category" initialized
+INFO - 2023-03-24 22:15:54 --> Model "Media" initialized
+INFO - 2023-03-24 22:15:54 --> Model "Post" initialized
+INFO - 2023-03-24 22:15:54 --> Model "Tags" initialized
+INFO - 2023-03-24 22:15:54 --> Model "Comments" initialized
+INFO - 2023-03-24 22:15:54 --> Model "Subscription" initialized
+INFO - 2023-03-24 22:15:54 --> Model "Site" initialized
+INFO - 2023-03-24 22:15:54 --> Controller Class Initialized
+INFO - 2023-03-24 22:15:54 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 22:15:54 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 22:15:54 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 22:15:54 --> Final output sent to browser
+DEBUG - 2023-03-24 22:15:54 --> Total execution time: 0.0530
+INFO - 2023-03-24 22:15:55 --> Config Class Initialized
+INFO - 2023-03-24 22:15:55 --> Hooks Class Initialized
+DEBUG - 2023-03-24 22:15:55 --> UTF-8 Support Enabled
+INFO - 2023-03-24 22:15:55 --> Utf8 Class Initialized
+INFO - 2023-03-24 22:15:55 --> URI Class Initialized
+INFO - 2023-03-24 22:15:55 --> Router Class Initialized
+INFO - 2023-03-24 22:15:55 --> Output Class Initialized
+INFO - 2023-03-24 22:15:55 --> Security Class Initialized
+DEBUG - 2023-03-24 22:15:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 22:15:55 --> Input Class Initialized
+INFO - 2023-03-24 22:15:55 --> Language Class Initialized
+INFO - 2023-03-24 22:15:55 --> Loader Class Initialized
+INFO - 2023-03-24 22:15:55 --> Helper loaded: url_helper
+INFO - 2023-03-24 22:15:55 --> Helper loaded: file_helper
+INFO - 2023-03-24 22:15:55 --> Helper loaded: useful_helper
+INFO - 2023-03-24 22:15:55 --> Helper loaded: date_helper
+INFO - 2023-03-24 22:15:55 --> Database Driver Class Initialized
+INFO - 2023-03-24 22:15:55 --> Email Class Initialized
+INFO - 2023-03-24 22:15:55 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 22:15:55 --> Helper loaded: form_helper
+INFO - 2023-03-24 22:15:55 --> Form Validation Class Initialized
+INFO - 2023-03-24 22:15:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 22:15:55 --> Pagination Class Initialized
+INFO - 2023-03-24 22:15:55 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Category" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Media" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Post" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Tags" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Comments" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Subscription" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Site" initialized
+INFO - 2023-03-24 22:15:55 --> Controller Class Initialized
+INFO - 2023-03-24 22:15:55 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 22:15:55 --> Final output sent to browser
+DEBUG - 2023-03-24 22:15:55 --> Total execution time: 0.0482
+INFO - 2023-03-24 22:15:55 --> Config Class Initialized
+INFO - 2023-03-24 22:15:55 --> Hooks Class Initialized
+DEBUG - 2023-03-24 22:15:55 --> UTF-8 Support Enabled
+INFO - 2023-03-24 22:15:55 --> Utf8 Class Initialized
+INFO - 2023-03-24 22:15:55 --> URI Class Initialized
+INFO - 2023-03-24 22:15:55 --> Router Class Initialized
+INFO - 2023-03-24 22:15:55 --> Output Class Initialized
+INFO - 2023-03-24 22:15:55 --> Security Class Initialized
+DEBUG - 2023-03-24 22:15:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 22:15:55 --> Input Class Initialized
+INFO - 2023-03-24 22:15:55 --> Language Class Initialized
+INFO - 2023-03-24 22:15:55 --> Loader Class Initialized
+INFO - 2023-03-24 22:15:55 --> Helper loaded: url_helper
+INFO - 2023-03-24 22:15:55 --> Helper loaded: file_helper
+INFO - 2023-03-24 22:15:55 --> Helper loaded: useful_helper
+INFO - 2023-03-24 22:15:55 --> Helper loaded: date_helper
+INFO - 2023-03-24 22:15:55 --> Database Driver Class Initialized
+INFO - 2023-03-24 22:15:55 --> Email Class Initialized
+INFO - 2023-03-24 22:15:55 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 22:15:55 --> Helper loaded: form_helper
+INFO - 2023-03-24 22:15:55 --> Form Validation Class Initialized
+INFO - 2023-03-24 22:15:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 22:15:55 --> Pagination Class Initialized
+INFO - 2023-03-24 22:15:55 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Category" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Media" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Post" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Tags" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Comments" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Subscription" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Site" initialized
+INFO - 2023-03-24 22:15:55 --> Controller Class Initialized
+INFO - 2023-03-24 22:15:55 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 22:15:55 --> Final output sent to browser
+DEBUG - 2023-03-24 22:15:55 --> Total execution time: 0.0497
+INFO - 2023-03-24 22:15:55 --> Config Class Initialized
+INFO - 2023-03-24 22:15:55 --> Hooks Class Initialized
+DEBUG - 2023-03-24 22:15:55 --> UTF-8 Support Enabled
+INFO - 2023-03-24 22:15:55 --> Utf8 Class Initialized
+INFO - 2023-03-24 22:15:55 --> URI Class Initialized
+DEBUG - 2023-03-24 22:15:55 --> No URI present. Default controller set.
+INFO - 2023-03-24 22:15:55 --> Router Class Initialized
+INFO - 2023-03-24 22:15:55 --> Output Class Initialized
+INFO - 2023-03-24 22:15:55 --> Security Class Initialized
+DEBUG - 2023-03-24 22:15:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 22:15:55 --> Input Class Initialized
+INFO - 2023-03-24 22:15:55 --> Language Class Initialized
+INFO - 2023-03-24 22:15:55 --> Loader Class Initialized
+INFO - 2023-03-24 22:15:55 --> Helper loaded: url_helper
+INFO - 2023-03-24 22:15:55 --> Helper loaded: file_helper
+INFO - 2023-03-24 22:15:55 --> Helper loaded: useful_helper
+INFO - 2023-03-24 22:15:55 --> Helper loaded: date_helper
+INFO - 2023-03-24 22:15:55 --> Database Driver Class Initialized
+INFO - 2023-03-24 22:15:55 --> Email Class Initialized
+INFO - 2023-03-24 22:15:55 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 22:15:55 --> Helper loaded: form_helper
+INFO - 2023-03-24 22:15:55 --> Form Validation Class Initialized
+INFO - 2023-03-24 22:15:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 22:15:55 --> Pagination Class Initialized
+INFO - 2023-03-24 22:15:55 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Category" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Media" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Post" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Tags" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Comments" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Subscription" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Site" initialized
+INFO - 2023-03-24 22:15:55 --> Controller Class Initialized
+INFO - 2023-03-24 22:15:55 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 22:15:55 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 22:15:55 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 22:15:55 --> Final output sent to browser
+DEBUG - 2023-03-24 22:15:55 --> Total execution time: 0.0535
+INFO - 2023-03-24 22:15:55 --> Config Class Initialized
+INFO - 2023-03-24 22:15:55 --> Hooks Class Initialized
+DEBUG - 2023-03-24 22:15:55 --> UTF-8 Support Enabled
+INFO - 2023-03-24 22:15:55 --> Utf8 Class Initialized
+INFO - 2023-03-24 22:15:55 --> URI Class Initialized
+DEBUG - 2023-03-24 22:15:55 --> No URI present. Default controller set.
+INFO - 2023-03-24 22:15:55 --> Router Class Initialized
+INFO - 2023-03-24 22:15:55 --> Output Class Initialized
+INFO - 2023-03-24 22:15:55 --> Security Class Initialized
+DEBUG - 2023-03-24 22:15:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 22:15:55 --> Input Class Initialized
+INFO - 2023-03-24 22:15:55 --> Language Class Initialized
+INFO - 2023-03-24 22:15:55 --> Loader Class Initialized
+INFO - 2023-03-24 22:15:55 --> Helper loaded: url_helper
+INFO - 2023-03-24 22:15:55 --> Helper loaded: file_helper
+INFO - 2023-03-24 22:15:55 --> Helper loaded: useful_helper
+INFO - 2023-03-24 22:15:55 --> Helper loaded: date_helper
+INFO - 2023-03-24 22:15:55 --> Database Driver Class Initialized
+INFO - 2023-03-24 22:15:55 --> Email Class Initialized
+INFO - 2023-03-24 22:15:55 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 22:15:55 --> Helper loaded: form_helper
+INFO - 2023-03-24 22:15:55 --> Form Validation Class Initialized
+INFO - 2023-03-24 22:15:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 22:15:55 --> Pagination Class Initialized
+INFO - 2023-03-24 22:15:55 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Category" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Media" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Post" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Tags" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Comments" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Subscription" initialized
+INFO - 2023-03-24 22:15:55 --> Model "Site" initialized
+INFO - 2023-03-24 22:15:55 --> Controller Class Initialized
+INFO - 2023-03-24 22:15:55 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 22:15:55 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 22:15:55 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 22:15:55 --> Final output sent to browser
+DEBUG - 2023-03-24 22:15:55 --> Total execution time: 0.0550
+INFO - 2023-03-24 22:15:55 --> Config Class Initialized
+INFO - 2023-03-24 22:15:55 --> Hooks Class Initialized
+DEBUG - 2023-03-24 22:15:55 --> UTF-8 Support Enabled
+INFO - 2023-03-24 22:15:55 --> Utf8 Class Initialized
+INFO - 2023-03-24 22:15:55 --> URI Class Initialized
+DEBUG - 2023-03-24 22:15:55 --> No URI present. Default controller set.
+INFO - 2023-03-24 22:15:55 --> Router Class Initialized
+INFO - 2023-03-24 22:15:55 --> Output Class Initialized
+INFO - 2023-03-24 22:15:55 --> Security Class Initialized
+DEBUG - 2023-03-24 22:15:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 22:15:55 --> Input Class Initialized
+INFO - 2023-03-24 22:15:55 --> Language Class Initialized
+INFO - 2023-03-24 22:15:55 --> Loader Class Initialized
+INFO - 2023-03-24 22:15:55 --> Helper loaded: url_helper
+INFO - 2023-03-24 22:15:55 --> Helper loaded: file_helper
+INFO - 2023-03-24 22:15:55 --> Helper loaded: useful_helper
+INFO - 2023-03-24 22:15:55 --> Helper loaded: date_helper
+INFO - 2023-03-24 22:15:56 --> Database Driver Class Initialized
+INFO - 2023-03-24 22:15:56 --> Email Class Initialized
+INFO - 2023-03-24 22:15:56 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 22:15:56 --> Helper loaded: form_helper
+INFO - 2023-03-24 22:15:56 --> Form Validation Class Initialized
+INFO - 2023-03-24 22:15:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 22:15:56 --> Pagination Class Initialized
+INFO - 2023-03-24 22:15:56 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 22:15:56 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 22:15:56 --> Model "Category" initialized
+INFO - 2023-03-24 22:15:56 --> Model "Media" initialized
+INFO - 2023-03-24 22:15:56 --> Model "Post" initialized
+INFO - 2023-03-24 22:15:56 --> Model "Tags" initialized
+INFO - 2023-03-24 22:15:56 --> Model "Comments" initialized
+INFO - 2023-03-24 22:15:56 --> Model "Subscription" initialized
+INFO - 2023-03-24 22:15:56 --> Model "Site" initialized
+INFO - 2023-03-24 22:15:56 --> Controller Class Initialized
+INFO - 2023-03-24 22:15:56 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 22:15:56 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 22:15:56 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 22:15:56 --> Final output sent to browser
+DEBUG - 2023-03-24 22:15:56 --> Total execution time: 0.0758
+INFO - 2023-03-24 22:23:00 --> Config Class Initialized
+INFO - 2023-03-24 22:23:00 --> Hooks Class Initialized
+DEBUG - 2023-03-24 22:23:00 --> UTF-8 Support Enabled
+INFO - 2023-03-24 22:23:00 --> Utf8 Class Initialized
+INFO - 2023-03-24 22:23:00 --> URI Class Initialized
+DEBUG - 2023-03-24 22:23:00 --> No URI present. Default controller set.
+INFO - 2023-03-24 22:23:00 --> Router Class Initialized
+INFO - 2023-03-24 22:23:00 --> Output Class Initialized
+INFO - 2023-03-24 22:23:00 --> Security Class Initialized
+DEBUG - 2023-03-24 22:23:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 22:23:00 --> Input Class Initialized
+INFO - 2023-03-24 22:23:00 --> Language Class Initialized
+INFO - 2023-03-24 22:23:00 --> Loader Class Initialized
+INFO - 2023-03-24 22:23:00 --> Helper loaded: url_helper
+INFO - 2023-03-24 22:23:00 --> Helper loaded: file_helper
+INFO - 2023-03-24 22:23:00 --> Helper loaded: useful_helper
+INFO - 2023-03-24 22:23:00 --> Helper loaded: date_helper
+INFO - 2023-03-24 22:23:00 --> Database Driver Class Initialized
+INFO - 2023-03-24 22:23:00 --> Email Class Initialized
+INFO - 2023-03-24 22:23:00 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 22:23:00 --> Helper loaded: form_helper
+INFO - 2023-03-24 22:23:00 --> Form Validation Class Initialized
+INFO - 2023-03-24 22:23:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 22:23:00 --> Pagination Class Initialized
+INFO - 2023-03-24 22:23:00 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 22:23:00 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 22:23:00 --> Model "Category" initialized
+INFO - 2023-03-24 22:23:00 --> Model "Media" initialized
+INFO - 2023-03-24 22:23:00 --> Model "Post" initialized
+INFO - 2023-03-24 22:23:00 --> Model "Tags" initialized
+INFO - 2023-03-24 22:23:00 --> Model "Comments" initialized
+INFO - 2023-03-24 22:23:00 --> Model "Subscription" initialized
+INFO - 2023-03-24 22:23:00 --> Model "Site" initialized
+INFO - 2023-03-24 22:23:00 --> Controller Class Initialized
+INFO - 2023-03-24 22:23:00 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 22:23:00 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 22:23:00 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 22:23:00 --> Final output sent to browser
+DEBUG - 2023-03-24 22:23:00 --> Total execution time: 0.0634
+INFO - 2023-03-24 22:34:23 --> Config Class Initialized
+INFO - 2023-03-24 22:34:23 --> Hooks Class Initialized
+DEBUG - 2023-03-24 22:34:23 --> UTF-8 Support Enabled
+INFO - 2023-03-24 22:34:23 --> Utf8 Class Initialized
+INFO - 2023-03-24 22:34:23 --> URI Class Initialized
+DEBUG - 2023-03-24 22:34:23 --> No URI present. Default controller set.
+INFO - 2023-03-24 22:34:23 --> Router Class Initialized
+INFO - 2023-03-24 22:34:23 --> Output Class Initialized
+INFO - 2023-03-24 22:34:23 --> Security Class Initialized
+DEBUG - 2023-03-24 22:34:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 22:34:23 --> Input Class Initialized
+INFO - 2023-03-24 22:34:23 --> Language Class Initialized
+INFO - 2023-03-24 22:34:23 --> Loader Class Initialized
+INFO - 2023-03-24 22:34:23 --> Helper loaded: url_helper
+INFO - 2023-03-24 22:34:23 --> Helper loaded: file_helper
+INFO - 2023-03-24 22:34:23 --> Helper loaded: useful_helper
+INFO - 2023-03-24 22:34:23 --> Helper loaded: date_helper
+INFO - 2023-03-24 22:34:23 --> Database Driver Class Initialized
+INFO - 2023-03-24 22:34:23 --> Email Class Initialized
+INFO - 2023-03-24 22:34:23 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 22:34:23 --> Helper loaded: form_helper
+INFO - 2023-03-24 22:34:23 --> Form Validation Class Initialized
+INFO - 2023-03-24 22:34:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 22:34:23 --> Pagination Class Initialized
+INFO - 2023-03-24 22:34:23 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 22:34:23 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 22:34:23 --> Model "Category" initialized
+INFO - 2023-03-24 22:34:23 --> Model "Media" initialized
+INFO - 2023-03-24 22:34:23 --> Model "Post" initialized
+INFO - 2023-03-24 22:34:23 --> Model "Tags" initialized
+INFO - 2023-03-24 22:34:23 --> Model "Comments" initialized
+INFO - 2023-03-24 22:34:23 --> Model "Subscription" initialized
+INFO - 2023-03-24 22:34:23 --> Model "Site" initialized
+INFO - 2023-03-24 22:34:23 --> Controller Class Initialized
+INFO - 2023-03-24 22:34:23 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 22:34:23 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 22:34:23 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 22:34:23 --> Final output sent to browser
+DEBUG - 2023-03-24 22:34:23 --> Total execution time: 0.0713
+INFO - 2023-03-24 23:40:20 --> Config Class Initialized
+INFO - 2023-03-24 23:40:20 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:40:20 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:40:20 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:40:20 --> URI Class Initialized
+DEBUG - 2023-03-24 23:40:20 --> No URI present. Default controller set.
+INFO - 2023-03-24 23:40:20 --> Router Class Initialized
+INFO - 2023-03-24 23:40:20 --> Output Class Initialized
+INFO - 2023-03-24 23:40:20 --> Security Class Initialized
+DEBUG - 2023-03-24 23:40:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:40:20 --> Input Class Initialized
+INFO - 2023-03-24 23:40:20 --> Language Class Initialized
+INFO - 2023-03-24 23:40:20 --> Loader Class Initialized
+INFO - 2023-03-24 23:40:20 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:40:20 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:40:20 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:40:20 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:40:20 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:40:20 --> Email Class Initialized
+INFO - 2023-03-24 23:40:20 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:40:20 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:40:20 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:40:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:40:20 --> Pagination Class Initialized
+INFO - 2023-03-24 23:40:20 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:40:20 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:40:20 --> Model "Category" initialized
+INFO - 2023-03-24 23:40:20 --> Model "Media" initialized
+INFO - 2023-03-24 23:40:20 --> Model "Post" initialized
+INFO - 2023-03-24 23:40:20 --> Model "Tags" initialized
+INFO - 2023-03-24 23:40:20 --> Model "Comments" initialized
+INFO - 2023-03-24 23:40:20 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:40:20 --> Model "Site" initialized
+INFO - 2023-03-24 23:40:20 --> Controller Class Initialized
+INFO - 2023-03-24 23:40:20 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:40:20 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:40:20 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 23:40:20 --> Final output sent to browser
+DEBUG - 2023-03-24 23:40:20 --> Total execution time: 0.0551
+INFO - 2023-03-24 23:40:22 --> Config Class Initialized
+INFO - 2023-03-24 23:40:22 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:40:22 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:40:22 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:40:22 --> URI Class Initialized
+DEBUG - 2023-03-24 23:40:22 --> No URI present. Default controller set.
+INFO - 2023-03-24 23:40:22 --> Router Class Initialized
+INFO - 2023-03-24 23:40:22 --> Output Class Initialized
+INFO - 2023-03-24 23:40:22 --> Security Class Initialized
+DEBUG - 2023-03-24 23:40:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:40:22 --> Input Class Initialized
+INFO - 2023-03-24 23:40:22 --> Language Class Initialized
+INFO - 2023-03-24 23:40:22 --> Loader Class Initialized
+INFO - 2023-03-24 23:40:22 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:40:22 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:40:22 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:40:22 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:40:22 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:40:22 --> Email Class Initialized
+INFO - 2023-03-24 23:40:22 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:40:22 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:40:22 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:40:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:40:22 --> Pagination Class Initialized
+INFO - 2023-03-24 23:40:22 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:40:22 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:40:22 --> Model "Category" initialized
+INFO - 2023-03-24 23:40:22 --> Model "Media" initialized
+INFO - 2023-03-24 23:40:22 --> Model "Post" initialized
+INFO - 2023-03-24 23:40:22 --> Model "Tags" initialized
+INFO - 2023-03-24 23:40:22 --> Model "Comments" initialized
+INFO - 2023-03-24 23:40:22 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:40:22 --> Model "Site" initialized
+INFO - 2023-03-24 23:40:22 --> Controller Class Initialized
+INFO - 2023-03-24 23:40:22 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:40:22 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:40:22 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 23:40:22 --> Final output sent to browser
+DEBUG - 2023-03-24 23:40:22 --> Total execution time: 0.0560
+INFO - 2023-03-24 23:40:25 --> Config Class Initialized
+INFO - 2023-03-24 23:40:25 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:40:25 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:40:25 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:40:25 --> URI Class Initialized
+DEBUG - 2023-03-24 23:40:25 --> No URI present. Default controller set.
+INFO - 2023-03-24 23:40:25 --> Router Class Initialized
+INFO - 2023-03-24 23:40:25 --> Output Class Initialized
+INFO - 2023-03-24 23:40:25 --> Security Class Initialized
+DEBUG - 2023-03-24 23:40:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:40:25 --> Input Class Initialized
+INFO - 2023-03-24 23:40:25 --> Language Class Initialized
+INFO - 2023-03-24 23:40:25 --> Loader Class Initialized
+INFO - 2023-03-24 23:40:25 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:40:25 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:40:25 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:40:25 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:40:25 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:40:25 --> Email Class Initialized
+INFO - 2023-03-24 23:40:25 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:40:25 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:40:25 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:40:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:40:25 --> Pagination Class Initialized
+INFO - 2023-03-24 23:40:25 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:40:25 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:40:25 --> Model "Category" initialized
+INFO - 2023-03-24 23:40:25 --> Model "Media" initialized
+INFO - 2023-03-24 23:40:25 --> Model "Post" initialized
+INFO - 2023-03-24 23:40:25 --> Model "Tags" initialized
+INFO - 2023-03-24 23:40:25 --> Model "Comments" initialized
+INFO - 2023-03-24 23:40:25 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:40:25 --> Model "Site" initialized
+INFO - 2023-03-24 23:40:25 --> Controller Class Initialized
+INFO - 2023-03-24 23:40:25 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:40:25 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:40:25 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 23:40:25 --> Final output sent to browser
+DEBUG - 2023-03-24 23:40:25 --> Total execution time: 0.0560
+INFO - 2023-03-24 23:41:47 --> Config Class Initialized
+INFO - 2023-03-24 23:41:47 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:41:47 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:41:47 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:41:47 --> URI Class Initialized
+DEBUG - 2023-03-24 23:41:47 --> No URI present. Default controller set.
+INFO - 2023-03-24 23:41:47 --> Router Class Initialized
+INFO - 2023-03-24 23:41:47 --> Output Class Initialized
+INFO - 2023-03-24 23:41:47 --> Security Class Initialized
+DEBUG - 2023-03-24 23:41:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:41:47 --> Input Class Initialized
+INFO - 2023-03-24 23:41:47 --> Language Class Initialized
+INFO - 2023-03-24 23:41:47 --> Loader Class Initialized
+INFO - 2023-03-24 23:41:47 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:41:47 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:41:47 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:41:47 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:41:47 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:41:47 --> Email Class Initialized
+INFO - 2023-03-24 23:41:47 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:41:47 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:41:47 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:41:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:41:47 --> Pagination Class Initialized
+INFO - 2023-03-24 23:41:47 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:41:47 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:41:47 --> Model "Category" initialized
+INFO - 2023-03-24 23:41:47 --> Model "Media" initialized
+INFO - 2023-03-24 23:41:47 --> Model "Post" initialized
+INFO - 2023-03-24 23:41:47 --> Model "Tags" initialized
+INFO - 2023-03-24 23:41:47 --> Model "Comments" initialized
+INFO - 2023-03-24 23:41:47 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:41:47 --> Model "Site" initialized
+INFO - 2023-03-24 23:41:47 --> Controller Class Initialized
+INFO - 2023-03-24 23:41:47 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:41:47 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:41:47 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 23:41:47 --> Final output sent to browser
+DEBUG - 2023-03-24 23:41:47 --> Total execution time: 0.0562
+INFO - 2023-03-24 23:41:55 --> Config Class Initialized
+INFO - 2023-03-24 23:41:55 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:41:55 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:41:55 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:41:55 --> URI Class Initialized
+DEBUG - 2023-03-24 23:41:55 --> No URI present. Default controller set.
+INFO - 2023-03-24 23:41:55 --> Router Class Initialized
+INFO - 2023-03-24 23:41:55 --> Output Class Initialized
+INFO - 2023-03-24 23:41:55 --> Security Class Initialized
+DEBUG - 2023-03-24 23:41:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:41:55 --> Input Class Initialized
+INFO - 2023-03-24 23:41:55 --> Language Class Initialized
+INFO - 2023-03-24 23:41:55 --> Loader Class Initialized
+INFO - 2023-03-24 23:41:55 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:41:55 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:41:55 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:41:55 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:41:55 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:41:55 --> Email Class Initialized
+INFO - 2023-03-24 23:41:55 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:41:55 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:41:55 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:41:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:41:55 --> Pagination Class Initialized
+INFO - 2023-03-24 23:41:55 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Category" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Media" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Post" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Tags" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Comments" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Site" initialized
+INFO - 2023-03-24 23:41:55 --> Controller Class Initialized
+INFO - 2023-03-24 23:41:55 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:41:55 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:41:55 --> File loaded: /www/wwwroot/citphy.org/application/views/welcome_message.php
+INFO - 2023-03-24 23:41:55 --> Final output sent to browser
+DEBUG - 2023-03-24 23:41:55 --> Total execution time: 0.0550
+INFO - 2023-03-24 23:41:55 --> Config Class Initialized
+INFO - 2023-03-24 23:41:55 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:41:55 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:41:55 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:41:55 --> URI Class Initialized
+INFO - 2023-03-24 23:41:55 --> Router Class Initialized
+INFO - 2023-03-24 23:41:55 --> Output Class Initialized
+INFO - 2023-03-24 23:41:55 --> Security Class Initialized
+DEBUG - 2023-03-24 23:41:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:41:55 --> Input Class Initialized
+INFO - 2023-03-24 23:41:55 --> Language Class Initialized
+INFO - 2023-03-24 23:41:55 --> Loader Class Initialized
+INFO - 2023-03-24 23:41:55 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:41:55 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:41:55 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:41:55 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:41:55 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:41:55 --> Email Class Initialized
+INFO - 2023-03-24 23:41:55 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:41:55 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:41:55 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:41:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:41:55 --> Pagination Class Initialized
+INFO - 2023-03-24 23:41:55 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Category" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Media" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Post" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Tags" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Comments" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:41:55 --> Model "Site" initialized
+INFO - 2023-03-24 23:41:55 --> Controller Class Initialized
+INFO - 2023-03-24 23:41:55 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 23:41:55 --> Final output sent to browser
+DEBUG - 2023-03-24 23:41:55 --> Total execution time: 0.0498
+INFO - 2023-03-24 23:41:56 --> Config Class Initialized
+INFO - 2023-03-24 23:41:56 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:41:56 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:41:56 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:41:56 --> URI Class Initialized
+INFO - 2023-03-24 23:41:56 --> Router Class Initialized
+INFO - 2023-03-24 23:41:56 --> Output Class Initialized
+INFO - 2023-03-24 23:41:56 --> Security Class Initialized
+DEBUG - 2023-03-24 23:41:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:41:56 --> Input Class Initialized
+INFO - 2023-03-24 23:41:56 --> Language Class Initialized
+INFO - 2023-03-24 23:41:56 --> Loader Class Initialized
+INFO - 2023-03-24 23:41:56 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:41:56 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:41:56 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:41:56 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:41:56 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:41:56 --> Email Class Initialized
+INFO - 2023-03-24 23:41:56 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:41:56 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:41:56 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:41:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:41:56 --> Pagination Class Initialized
+INFO - 2023-03-24 23:41:56 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:41:56 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:41:56 --> Model "Category" initialized
+INFO - 2023-03-24 23:41:56 --> Model "Media" initialized
+INFO - 2023-03-24 23:41:56 --> Model "Post" initialized
+INFO - 2023-03-24 23:41:56 --> Model "Tags" initialized
+INFO - 2023-03-24 23:41:56 --> Model "Comments" initialized
+INFO - 2023-03-24 23:41:56 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:41:56 --> Model "Site" initialized
+INFO - 2023-03-24 23:41:56 --> Controller Class Initialized
+INFO - 2023-03-24 23:41:56 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 23:41:56 --> Final output sent to browser
+DEBUG - 2023-03-24 23:41:56 --> Total execution time: 0.0498
+INFO - 2023-03-24 23:41:58 --> Config Class Initialized
+INFO - 2023-03-24 23:41:58 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:41:58 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:41:58 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:41:58 --> URI Class Initialized
+INFO - 2023-03-24 23:41:58 --> Router Class Initialized
+INFO - 2023-03-24 23:41:58 --> Output Class Initialized
+INFO - 2023-03-24 23:41:58 --> Security Class Initialized
+DEBUG - 2023-03-24 23:41:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:41:58 --> Input Class Initialized
+INFO - 2023-03-24 23:41:58 --> Language Class Initialized
+INFO - 2023-03-24 23:41:58 --> Loader Class Initialized
+INFO - 2023-03-24 23:41:58 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:41:58 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:41:58 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:41:58 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:41:58 --> Config Class Initialized
+INFO - 2023-03-24 23:41:58 --> Hooks Class Initialized
+INFO - 2023-03-24 23:41:58 --> Database Driver Class Initialized
+DEBUG - 2023-03-24 23:41:58 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:41:58 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:41:58 --> URI Class Initialized
+INFO - 2023-03-24 23:41:58 --> Router Class Initialized
+INFO - 2023-03-24 23:41:58 --> Output Class Initialized
+INFO - 2023-03-24 23:41:58 --> Security Class Initialized
+INFO - 2023-03-24 23:41:58 --> Email Class Initialized
+DEBUG - 2023-03-24 23:41:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:41:58 --> Input Class Initialized
+INFO - 2023-03-24 23:41:58 --> Language Class Initialized
+INFO - 2023-03-24 23:41:58 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:41:58 --> Loader Class Initialized
+INFO - 2023-03-24 23:41:58 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:41:58 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:41:58 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:41:58 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:41:58 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:41:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:41:58 --> Pagination Class Initialized
+INFO - 2023-03-24 23:41:58 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:41:58 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Category" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Media" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Post" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Tags" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Comments" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Site" initialized
+INFO - 2023-03-24 23:41:58 --> Controller Class Initialized
+INFO - 2023-03-24 23:41:58 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:41:58 --> Email Class Initialized
+INFO - 2023-03-24 23:41:58 --> Helper loaded: cookie_helper
+INFO - 2023-03-24 23:41:58 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:41:58 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:41:58 --> File loaded: /www/wwwroot/citphy.org/application/views/singlepost.php
+INFO - 2023-03-24 23:41:58 --> Final output sent to browser
+DEBUG - 2023-03-24 23:41:58 --> Total execution time: 0.0686
+INFO - 2023-03-24 23:41:58 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:41:58 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:41:58 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:41:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:41:58 --> Pagination Class Initialized
+INFO - 2023-03-24 23:41:58 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Category" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Media" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Post" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Tags" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Comments" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Site" initialized
+INFO - 2023-03-24 23:41:58 --> Controller Class Initialized
+INFO - 2023-03-24 23:41:58 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 23:41:58 --> Final output sent to browser
+DEBUG - 2023-03-24 23:41:58 --> Total execution time: 0.0588
+INFO - 2023-03-24 23:41:58 --> Config Class Initialized
+INFO - 2023-03-24 23:41:58 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:41:58 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:41:58 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:41:58 --> URI Class Initialized
+INFO - 2023-03-24 23:41:58 --> Router Class Initialized
+INFO - 2023-03-24 23:41:58 --> Output Class Initialized
+INFO - 2023-03-24 23:41:58 --> Security Class Initialized
+DEBUG - 2023-03-24 23:41:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:41:58 --> Input Class Initialized
+INFO - 2023-03-24 23:41:58 --> Language Class Initialized
+INFO - 2023-03-24 23:41:58 --> Loader Class Initialized
+INFO - 2023-03-24 23:41:58 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:41:58 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:41:58 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:41:58 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:41:58 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:41:58 --> Email Class Initialized
+INFO - 2023-03-24 23:41:58 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:41:58 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:41:58 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:41:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:41:58 --> Pagination Class Initialized
+INFO - 2023-03-24 23:41:58 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Category" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Media" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Post" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Tags" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Comments" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:41:58 --> Model "Site" initialized
+INFO - 2023-03-24 23:41:58 --> Controller Class Initialized
+INFO - 2023-03-24 23:41:58 --> Helper loaded: cookie_helper
+INFO - 2023-03-24 23:41:58 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:41:58 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:41:58 --> File loaded: /www/wwwroot/citphy.org/application/views/singlepost.php
+INFO - 2023-03-24 23:41:58 --> Final output sent to browser
+DEBUG - 2023-03-24 23:41:58 --> Total execution time: 0.0722
+INFO - 2023-03-24 23:41:59 --> Config Class Initialized
+INFO - 2023-03-24 23:41:59 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:41:59 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:41:59 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:41:59 --> URI Class Initialized
+INFO - 2023-03-24 23:41:59 --> Router Class Initialized
+INFO - 2023-03-24 23:41:59 --> Output Class Initialized
+INFO - 2023-03-24 23:41:59 --> Security Class Initialized
+DEBUG - 2023-03-24 23:41:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:41:59 --> Input Class Initialized
+INFO - 2023-03-24 23:41:59 --> Language Class Initialized
+INFO - 2023-03-24 23:41:59 --> Loader Class Initialized
+INFO - 2023-03-24 23:41:59 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:41:59 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:41:59 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:41:59 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:41:59 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:41:59 --> Email Class Initialized
+INFO - 2023-03-24 23:41:59 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:41:59 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:41:59 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:41:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:41:59 --> Pagination Class Initialized
+INFO - 2023-03-24 23:41:59 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:41:59 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:41:59 --> Model "Category" initialized
+INFO - 2023-03-24 23:41:59 --> Model "Media" initialized
+INFO - 2023-03-24 23:41:59 --> Model "Post" initialized
+INFO - 2023-03-24 23:41:59 --> Model "Tags" initialized
+INFO - 2023-03-24 23:41:59 --> Model "Comments" initialized
+INFO - 2023-03-24 23:41:59 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:41:59 --> Model "Site" initialized
+INFO - 2023-03-24 23:41:59 --> Controller Class Initialized
+INFO - 2023-03-24 23:41:59 --> Helper loaded: cookie_helper
+INFO - 2023-03-24 23:41:59 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:41:59 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:41:59 --> File loaded: /www/wwwroot/citphy.org/application/views/singlepost.php
+INFO - 2023-03-24 23:41:59 --> Final output sent to browser
+DEBUG - 2023-03-24 23:41:59 --> Total execution time: 0.0759
+INFO - 2023-03-24 23:41:59 --> Config Class Initialized
+INFO - 2023-03-24 23:41:59 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:41:59 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:41:59 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:41:59 --> URI Class Initialized
+INFO - 2023-03-24 23:41:59 --> Router Class Initialized
+INFO - 2023-03-24 23:41:59 --> Output Class Initialized
+INFO - 2023-03-24 23:41:59 --> Security Class Initialized
+DEBUG - 2023-03-24 23:41:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:41:59 --> Input Class Initialized
+INFO - 2023-03-24 23:41:59 --> Language Class Initialized
+INFO - 2023-03-24 23:41:59 --> Loader Class Initialized
+INFO - 2023-03-24 23:41:59 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:41:59 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:41:59 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:41:59 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:41:59 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:41:59 --> Email Class Initialized
+INFO - 2023-03-24 23:41:59 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:42:00 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:42:00 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:42:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:42:00 --> Pagination Class Initialized
+INFO - 2023-03-24 23:42:00 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Category" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Media" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Post" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Tags" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Comments" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Site" initialized
+INFO - 2023-03-24 23:42:00 --> Controller Class Initialized
+INFO - 2023-03-24 23:42:00 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:42:00 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:42:00 --> File loaded: /www/wwwroot/citphy.org/application/views/category.php
+INFO - 2023-03-24 23:42:00 --> Final output sent to browser
+DEBUG - 2023-03-24 23:42:00 --> Total execution time: 0.0670
+INFO - 2023-03-24 23:42:00 --> Config Class Initialized
+INFO - 2023-03-24 23:42:00 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:42:00 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:42:00 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:42:00 --> URI Class Initialized
+INFO - 2023-03-24 23:42:00 --> Router Class Initialized
+INFO - 2023-03-24 23:42:00 --> Output Class Initialized
+INFO - 2023-03-24 23:42:00 --> Security Class Initialized
+DEBUG - 2023-03-24 23:42:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:42:00 --> Input Class Initialized
+INFO - 2023-03-24 23:42:00 --> Language Class Initialized
+INFO - 2023-03-24 23:42:00 --> Loader Class Initialized
+INFO - 2023-03-24 23:42:00 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:42:00 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:42:00 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:42:00 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:42:00 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:42:00 --> Email Class Initialized
+INFO - 2023-03-24 23:42:00 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:42:00 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:42:00 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:42:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:42:00 --> Pagination Class Initialized
+INFO - 2023-03-24 23:42:00 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Category" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Media" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Post" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Tags" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Comments" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:42:00 --> Model "Site" initialized
+INFO - 2023-03-24 23:42:00 --> Controller Class Initialized
+INFO - 2023-03-24 23:42:00 --> Helper loaded: cookie_helper
+INFO - 2023-03-24 23:42:00 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:42:00 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:42:00 --> File loaded: /www/wwwroot/citphy.org/application/views/singlepost.php
+INFO - 2023-03-24 23:42:00 --> Final output sent to browser
+DEBUG - 2023-03-24 23:42:00 --> Total execution time: 0.0761
+INFO - 2023-03-24 23:42:01 --> Config Class Initialized
+INFO - 2023-03-24 23:42:01 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:42:01 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:42:01 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:42:01 --> URI Class Initialized
+INFO - 2023-03-24 23:42:01 --> Router Class Initialized
+INFO - 2023-03-24 23:42:01 --> Output Class Initialized
+INFO - 2023-03-24 23:42:01 --> Security Class Initialized
+DEBUG - 2023-03-24 23:42:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:42:01 --> Input Class Initialized
+INFO - 2023-03-24 23:42:01 --> Language Class Initialized
+INFO - 2023-03-24 23:42:01 --> Loader Class Initialized
+INFO - 2023-03-24 23:42:01 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:42:01 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:42:01 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:42:01 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:42:01 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:42:01 --> Email Class Initialized
+INFO - 2023-03-24 23:42:01 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:42:01 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:42:01 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:42:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:42:01 --> Pagination Class Initialized
+INFO - 2023-03-24 23:42:01 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:42:01 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:42:01 --> Model "Category" initialized
+INFO - 2023-03-24 23:42:01 --> Model "Media" initialized
+INFO - 2023-03-24 23:42:01 --> Model "Post" initialized
+INFO - 2023-03-24 23:42:01 --> Model "Tags" initialized
+INFO - 2023-03-24 23:42:01 --> Model "Comments" initialized
+INFO - 2023-03-24 23:42:01 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:42:01 --> Model "Site" initialized
+INFO - 2023-03-24 23:42:01 --> Controller Class Initialized
+INFO - 2023-03-24 23:42:01 --> Helper loaded: cookie_helper
+INFO - 2023-03-24 23:42:01 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:42:01 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:42:01 --> File loaded: /www/wwwroot/citphy.org/application/views/singlepost.php
+INFO - 2023-03-24 23:42:01 --> Final output sent to browser
+DEBUG - 2023-03-24 23:42:01 --> Total execution time: 0.0695
+INFO - 2023-03-24 23:42:02 --> Config Class Initialized
+INFO - 2023-03-24 23:42:02 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:42:02 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:42:02 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:42:02 --> URI Class Initialized
+INFO - 2023-03-24 23:42:02 --> Router Class Initialized
+INFO - 2023-03-24 23:42:02 --> Output Class Initialized
+INFO - 2023-03-24 23:42:02 --> Security Class Initialized
+DEBUG - 2023-03-24 23:42:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:42:02 --> Input Class Initialized
+INFO - 2023-03-24 23:42:02 --> Language Class Initialized
+INFO - 2023-03-24 23:42:02 --> Loader Class Initialized
+INFO - 2023-03-24 23:42:02 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:42:02 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:42:02 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:42:02 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:42:02 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:42:02 --> Email Class Initialized
+INFO - 2023-03-24 23:42:02 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:42:02 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:42:02 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:42:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:42:02 --> Pagination Class Initialized
+INFO - 2023-03-24 23:42:02 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Category" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Media" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Post" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Tags" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Comments" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Site" initialized
+INFO - 2023-03-24 23:42:02 --> Controller Class Initialized
+INFO - 2023-03-24 23:42:02 --> Config Class Initialized
+INFO - 2023-03-24 23:42:02 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:42:02 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:42:02 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:42:02 --> URI Class Initialized
+INFO - 2023-03-24 23:42:02 --> Router Class Initialized
+INFO - 2023-03-24 23:42:02 --> Output Class Initialized
+INFO - 2023-03-24 23:42:02 --> Helper loaded: cookie_helper
+INFO - 2023-03-24 23:42:02 --> Security Class Initialized
+DEBUG - 2023-03-24 23:42:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:42:02 --> Input Class Initialized
+INFO - 2023-03-24 23:42:02 --> Language Class Initialized
+INFO - 2023-03-24 23:42:02 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:42:02 --> Loader Class Initialized
+INFO - 2023-03-24 23:42:02 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:42:02 --> File loaded: /www/wwwroot/citphy.org/application/views/singlepost.php
+INFO - 2023-03-24 23:42:02 --> Final output sent to browser
+DEBUG - 2023-03-24 23:42:02 --> Total execution time: 0.0721
+INFO - 2023-03-24 23:42:02 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:42:02 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:42:02 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:42:02 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:42:02 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:42:02 --> Email Class Initialized
+INFO - 2023-03-24 23:42:02 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:42:02 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:42:02 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:42:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:42:02 --> Pagination Class Initialized
+INFO - 2023-03-24 23:42:02 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Category" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Media" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Post" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Tags" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Comments" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:42:02 --> Model "Site" initialized
+INFO - 2023-03-24 23:42:02 --> Controller Class Initialized
+INFO - 2023-03-24 23:42:02 --> Helper loaded: cookie_helper
+INFO - 2023-03-24 23:42:02 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:42:02 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:42:02 --> File loaded: /www/wwwroot/citphy.org/application/views/singlepost.php
+INFO - 2023-03-24 23:42:02 --> Final output sent to browser
+DEBUG - 2023-03-24 23:42:02 --> Total execution time: 0.0741
+INFO - 2023-03-24 23:42:03 --> Config Class Initialized
+INFO - 2023-03-24 23:42:03 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:42:03 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:42:03 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:42:03 --> URI Class Initialized
+INFO - 2023-03-24 23:42:03 --> Router Class Initialized
+INFO - 2023-03-24 23:42:03 --> Output Class Initialized
+INFO - 2023-03-24 23:42:03 --> Security Class Initialized
+DEBUG - 2023-03-24 23:42:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:42:03 --> Input Class Initialized
+INFO - 2023-03-24 23:42:03 --> Language Class Initialized
+INFO - 2023-03-24 23:42:03 --> Loader Class Initialized
+INFO - 2023-03-24 23:42:03 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:42:03 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:42:03 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:42:03 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:42:03 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:42:03 --> Email Class Initialized
+INFO - 2023-03-24 23:42:03 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:42:03 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:42:03 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:42:03 --> Config Class Initialized
+INFO - 2023-03-24 23:42:03 --> Hooks Class Initialized
+INFO - 2023-03-24 23:42:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:42:03 --> Pagination Class Initialized
+INFO - 2023-03-24 23:42:03 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Category" initialized
+DEBUG - 2023-03-24 23:42:03 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:42:03 --> Model "Media" initialized
+INFO - 2023-03-24 23:42:03 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:42:03 --> Model "Post" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Tags" initialized
+INFO - 2023-03-24 23:42:03 --> URI Class Initialized
+INFO - 2023-03-24 23:42:03 --> Model "Comments" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Site" initialized
+INFO - 2023-03-24 23:42:03 --> Controller Class Initialized
+INFO - 2023-03-24 23:42:03 --> Router Class Initialized
+INFO - 2023-03-24 23:42:03 --> Output Class Initialized
+INFO - 2023-03-24 23:42:03 --> Security Class Initialized
+DEBUG - 2023-03-24 23:42:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:42:03 --> Input Class Initialized
+INFO - 2023-03-24 23:42:03 --> Language Class Initialized
+INFO - 2023-03-24 23:42:03 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:42:03 --> Loader Class Initialized
+INFO - 2023-03-24 23:42:03 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:42:03 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:42:03 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:42:03 --> File loaded: /www/wwwroot/citphy.org/application/views/category.php
+INFO - 2023-03-24 23:42:03 --> Final output sent to browser
+DEBUG - 2023-03-24 23:42:03 --> Total execution time: 0.0614
+INFO - 2023-03-24 23:42:03 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:42:03 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:42:03 --> Config Class Initialized
+INFO - 2023-03-24 23:42:03 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:42:03 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:42:03 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:42:03 --> URI Class Initialized
+INFO - 2023-03-24 23:42:03 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:42:03 --> Router Class Initialized
+INFO - 2023-03-24 23:42:03 --> Output Class Initialized
+INFO - 2023-03-24 23:42:03 --> Email Class Initialized
+INFO - 2023-03-24 23:42:03 --> Security Class Initialized
+DEBUG - 2023-03-24 23:42:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:42:03 --> Input Class Initialized
+INFO - 2023-03-24 23:42:03 --> Language Class Initialized
+INFO - 2023-03-24 23:42:03 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:42:03 --> Loader Class Initialized
+INFO - 2023-03-24 23:42:03 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:42:03 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:42:03 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:42:03 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:42:03 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:42:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:42:03 --> Pagination Class Initialized
+INFO - 2023-03-24 23:42:03 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:42:03 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:42:03 --> Model "Category" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Media" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Post" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Tags" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Comments" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Site" initialized
+INFO - 2023-03-24 23:42:03 --> Controller Class Initialized
+INFO - 2023-03-24 23:42:03 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:42:03 --> Email Class Initialized
+INFO - 2023-03-24 23:42:03 --> Helper loaded: cookie_helper
+INFO - 2023-03-24 23:42:03 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:42:03 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:42:03 --> File loaded: /www/wwwroot/citphy.org/application/views/singlepost.php
+INFO - 2023-03-24 23:42:03 --> Final output sent to browser
+DEBUG - 2023-03-24 23:42:03 --> Total execution time: 0.0696
+INFO - 2023-03-24 23:42:03 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:42:03 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:42:03 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:42:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:42:03 --> Pagination Class Initialized
+INFO - 2023-03-24 23:42:03 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Category" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Media" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Post" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Tags" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Comments" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Site" initialized
+INFO - 2023-03-24 23:42:03 --> Controller Class Initialized
+INFO - 2023-03-24 23:42:03 --> Helper loaded: cookie_helper
+INFO - 2023-03-24 23:42:03 --> File loaded: /www/wwwroot/citphy.org/application/views/header.php
+INFO - 2023-03-24 23:42:03 --> File loaded: /www/wwwroot/citphy.org/application/views/footer.php
+INFO - 2023-03-24 23:42:03 --> File loaded: /www/wwwroot/citphy.org/application/views/singlepost.php
+INFO - 2023-03-24 23:42:03 --> Final output sent to browser
+DEBUG - 2023-03-24 23:42:03 --> Total execution time: 0.0719
+INFO - 2023-03-24 23:42:03 --> Config Class Initialized
+INFO - 2023-03-24 23:42:03 --> Hooks Class Initialized
+DEBUG - 2023-03-24 23:42:03 --> UTF-8 Support Enabled
+INFO - 2023-03-24 23:42:03 --> Utf8 Class Initialized
+INFO - 2023-03-24 23:42:03 --> URI Class Initialized
+INFO - 2023-03-24 23:42:03 --> Router Class Initialized
+INFO - 2023-03-24 23:42:03 --> Output Class Initialized
+INFO - 2023-03-24 23:42:03 --> Security Class Initialized
+DEBUG - 2023-03-24 23:42:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-03-24 23:42:03 --> Input Class Initialized
+INFO - 2023-03-24 23:42:03 --> Language Class Initialized
+INFO - 2023-03-24 23:42:03 --> Loader Class Initialized
+INFO - 2023-03-24 23:42:03 --> Helper loaded: url_helper
+INFO - 2023-03-24 23:42:03 --> Helper loaded: file_helper
+INFO - 2023-03-24 23:42:03 --> Helper loaded: useful_helper
+INFO - 2023-03-24 23:42:03 --> Helper loaded: date_helper
+INFO - 2023-03-24 23:42:03 --> Database Driver Class Initialized
+INFO - 2023-03-24 23:42:03 --> Email Class Initialized
+INFO - 2023-03-24 23:42:03 --> Session: Class initialized using 'files' driver.
+INFO - 2023-03-24 23:42:03 --> Helper loaded: form_helper
+INFO - 2023-03-24 23:42:03 --> Form Validation Class Initialized
+INFO - 2023-03-24 23:42:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2023-03-24 23:42:03 --> Pagination Class Initialized
+INFO - 2023-03-24 23:42:03 --> Model "Backoffice_M" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Loginrecords" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Category" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Media" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Post" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Tags" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Comments" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Subscription" initialized
+INFO - 2023-03-24 23:42:03 --> Model "Site" initialized
+INFO - 2023-03-24 23:42:03 --> Controller Class Initialized
+INFO - 2023-03-24 23:42:03 --> File loaded: /www/wwwroot/citphy.org/application/views/404.php
+INFO - 2023-03-24 23:42:03 --> Final output sent to browser
+DEBUG - 2023-03-24 23:42:03 --> Total execution time: 0.0570
