@@ -1089,12 +1089,8 @@ class Backoffice extends CI_Controller
                 'date' => $this->input->post('date'),
                 'description' => $this->input->post('description'),
                 'create_date' => date('Y-m-d H:i:s')
-
-
-
-
-            );
-            if($this->input->post("type"=="C")){
+);
+            if($this->input->post("type")=="C"){
             // $this->load->model('IssueModel');
             $this->IssueModel->create_issue($data);
         }else{

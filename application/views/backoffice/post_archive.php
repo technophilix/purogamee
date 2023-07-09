@@ -104,6 +104,7 @@
                                                 <th>Title</th>
                                                 <th>Type</th>
                                                 <th>Categories</th>
+                                                <th>Issue</th>
                                                 <!--                            <th>Tags</th>    -->
                                                 <th>Publish Date</th>
                                                 <th>Publish Status</th>
@@ -118,7 +119,7 @@
                                                         <td><b><?php echo $postdata->title ?></b></td>
                                                         <td><?php echo ucfirst($postdata->post_type) ?></td>
                                                         <td><?php echo get_category($postdata->category) ?></td>
-                                                        <!--                                        <td><?php echo $postdata->tags ?></td>-->
+                                                       <td><?php echo $postdata->name ?></td>
                                                         <td><?php if($postdata->publish_date!=null){echo date("d F, Y", strtotime($postdata->publish_date));}else{echo date("d F, Y", strtotime($postdata->update_date));} ?></td>
                                                         <td><?php echo $postdata->publish_status ?></td>
                                                         <td><?php echo $postdata->viewes ?></td>

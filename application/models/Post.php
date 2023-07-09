@@ -130,7 +130,7 @@ class Post extends CI_Model
 
   function fetchAllposts_type($post_type) {
      
-    $query = $this->db->query("select * from post where list_status = ? and post_type=? order by create_date desc", array('Y', $post_type));
+    $query = $this->db->query("select p.*, i.* from post p, issue i where p.issue=i.idissue and p.list_status = ? and p.post_type=? order by p.create_date desc", array('Y', $post_type));
 
     return $query->result(); 
       
