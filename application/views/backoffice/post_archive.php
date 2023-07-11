@@ -1,4 +1,5 @@
 <?php $this->load->view('backoffice/header'); ?>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
 <style>
     .panel.with-nav-tabs .panel-heading {
         padding: 5px 5px 0 5px;
@@ -59,6 +60,10 @@
         color: #fff;
         background-color: #31708f;
     }
+
+    #sortable tr:hover {
+    cursor:move;
+}
 </style>
 
 
@@ -111,10 +116,10 @@
                                                 <th>Post view</th>
                                                 <th>Edit/Delete</th>
                                             </thead>
-                                            <tbody>
+                                            <tbody id="sortable">
                                                 <?php $count = 1;
                                                 foreach ($post as $postdata) { ?>
-                                                    <tr>
+                                                    <tr id="<?php echo $postdata->idpost ?>">
                                                         <td><?php echo $count ?></td>
                                                         <td><b><?php echo $postdata->title ?></b></td>
                                                         <td><?php echo ucfirst($postdata->post_type) ?></td>
@@ -183,6 +188,7 @@
     </section><!-- /.content -->
 </div><!-- /.content-wrapper -->
 <?php $this->load->view('backoffice/footer'); ?>
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
 <script>
     $(document).ready(function() {
         $('#posttable').DataTable({
@@ -235,4 +241,42 @@
     $('.nav-tabs a').on('shown.bs.tab', function(e) {
         window.location.hash = e.target.hash;
     })
+
+
+    $(function() {
+        $('#sortable').sortable({
+            stop: function() {
+                var ids = '';
+                $('#sortable tr').each(function() {
+                    id = $(this).attr('id');
+                    if (ids == '') {
+                        ids = id;
+                    } else {
+                        ids = ids + ',' + id;
+                    }
+                })
+                $.ajax({
+                    url: "<?php echo base_url() . 'backoffice/changerowrank/' ?>",
+                    dataType: "json",
+                    data: {
+                        ids: ids,
+ 
+                    },
+                    type: 'post',
+                    success: function(data) {
+
+                        
+                        // $("#tab1info").load(location.href+" #tab1info>*","");
+                       alert('Order saved successfully');
+                    }
+                })
+
+                console.log(ids)
+            }
+        });
+    });
+
+
+
+
 </script>

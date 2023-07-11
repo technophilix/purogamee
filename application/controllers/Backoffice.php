@@ -381,14 +381,9 @@ class Backoffice extends CI_Controller
         $this->form_validation->set_rules('abstract', 'Post abstract', 'trim|max_length[5000]');
         $this->form_validation->set_rules('post_author', 'Author', 'trim|max_length[80]');
         if ($this->form_validation->run() == FALSE) {
-
-
             $this->newpost($post_key);
         } else {
-
             if ($this->Post->is_title_exist($this->input->post('title'), $post_key)) {
-
-
                 $this->session->set_flashdata('same_title', 'Another post has same title. Please change it..');
                 $this->newpost($post_key);
             } else {
@@ -423,7 +418,8 @@ class Backoffice extends CI_Controller
                     'issue' => $issue,
                     'update_date' => date("Y-m-d H:i:s"),
                     'update_status' => 'Y',
-                    'list_status' => 'Y'
+                    'list_status' => 'Y',
+                    'postorder' =>$this->input->post("idpost")
                 );
 
                 $this->Post->insertPost($postdata);
@@ -1109,6 +1105,21 @@ class Backoffice extends CI_Controller
         redirect(base_url() . "backoffice/createissue");
     }
 
+
+    public function changerowrank()
+    {
+
+        $ids = $this->input->post('ids');
+        $arr = explode(',', $ids);
+
+       
+        for ($i = 1; $i <= count($arr); $i++) {
+            $q = "UPDATE post SET `postorder`= " . $i . " WHERE idpost = " . $arr[$i - 1];
+
+            $this->db->query($q);
+        }
+        echo json_encode("Order changed successfully");
+    }
 
 
 

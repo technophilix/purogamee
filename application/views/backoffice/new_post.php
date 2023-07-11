@@ -106,7 +106,11 @@
                                                                                             } ?>" data-role="tagsinput" class="form-control" /> <br /><br />
 
 
-                                    <input type="submit" value="save" class="btn mybutton">
+                                    <input type="hidden" value="<?= $post->idpost ?>" name="idpost" >
+
+
+
+<input type="submit" value="save" class="btn mybutton">
 
 
 

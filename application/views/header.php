@@ -99,7 +99,21 @@
     <!-- If you want you can embed a URL of a image representing the content of your webpage. This image will be displayed in the preview and will make your post look more attractive. -->
     <meta name="twitter:image" content="<?php echo $social ?>">
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-
+   <!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//api.technophilix.com/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
 
     <script type="application/ld+json">
         {

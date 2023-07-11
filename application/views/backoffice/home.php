@@ -94,10 +94,7 @@ if ($this->uri->segment(3) === "email_success")
                         <p class="category"> Select dates</p>
                     </div>
                     <div class="content">  
-               <label>Start Date</label>        
-              <input type="date" name="start-date"class="form-control" /><br/>
-              <label>End Date</label>  
-              <input type="date" name="start-date"class="form-control" />
+                    <canvas id="analyticsChart"></canvas>
                 <!-- Tabs within a box -->
                 </div> 
 
@@ -242,3 +239,106 @@ if ($this->uri->segment(3) === "email_success")
         </section><!-- /.content -->
       </div><!-- /.content-wrapper -->
       <?php $this->load->view('backoffice/footer'); ?>
+
+      <script>
+    // Your Google Analytics Reporting API credentials and view ID
+    const CLIENT_ID = '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';
+    const API_KEY = 'YOUR_API_KEY';
+    const VIEW_ID = 'YOUR_VIEW_ID';
+
+    // Load the Google Analytics Reporting API
+    gapi.load('client:auth2', initAnalytics);
+
+    function initAnalytics() {
+      gapi.client.init({
+        apiKey: API_KEY,
+        clientId: CLIENT_ID,
+        discoveryDocs: ['https://analyticsreporting.googleapis.com/$discovery/rest?version=v4'],
+        scope: 'https://www.googleapis.com/auth/analytics.readonly'
+      }).then(function() {
+        // Fetch the data from Google Analytics
+        getDataFromAnalytics();
+      }).catch(function(err) {
+        console.log('Error initializing Analytics: ' + err);
+      });
+    }
+
+    function getDataFromAnalytics() {
+      // Request data from the Google Analytics Reporting API
+      gapi.client.analyticsreporting.reports.batchGet({
+        'reportRequests': [
+          {
+            'viewId': VIEW_ID,
+            'dateRanges': [
+              {
+                'startDate': '7daysAgo',
+                'endDate': 'today'
+              }
+            ],
+            'metrics': [
+              {'expression': 'ga:sessions'}
+            ],
+            'dimensions': [
+              {'name': 'ga:date'}
+            ],
+            'orderBys': [
+              {'fieldName': 'ga:date'}
+            ]
+          }
+        ]
+      }).then(function(response) {
+        // Process the response and build the chart
+        const data = response.result.reports[0].data.rows;
+        buildChart(data);
+      }).catch(function(err) {
+        console.log('Error querying Analytics API: ' + err);
+      });
+    }
+
+    function buildChart(data) {
+      // Extract dates and sessions from the response
+      const dates = data.map(function(row) {
+        return row.dimensions[0];
+      });
+      const sessions = data.map(function(row) {
+        return parseInt(row.metrics[0].values[0]);
+      });
+
+      // Create the chart using Chart.js
+      const ctx = document.getElementById('analyticsChart').getContext('2d');
+      new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: dates,
+          datasets: [{
+            label: 'Sessions',
+            data: sessions,
+            backgroundColor: 'rgba(0, 123, 255, 0.5)',
+            borderColor: 'rgba(0, 123, 255, 1)',
+            borderWidth: 1
+          }]
+        },
+        options: {
+          responsive: true,
+          scales: {
+            y: {
+              beginAtZero: true
+            }
+          }
+        }
+      });
+    }
+  </script>
+  <script src="https://apis.google.com/js/api.js"></script>
+  <script>
+    // Authorize with Google Analytics
+    gapi.load('client:auth2', authorize);
+
+    function authorize() {
+      gapi.auth2.init({
+        clientId: CLIENT_ID
+      }).then(function() {
+        gapi.auth2.getAuthInstance().signIn();
+      });
+    }
+  </script>

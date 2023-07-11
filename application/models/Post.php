@@ -130,7 +130,7 @@ class Post extends CI_Model
 
   function fetchAllposts_type($post_type) {
      
-    $query = $this->db->query("select p.*, i.* from post p, issue i where p.issue=i.idissue and p.list_status = ? and p.post_type=? order by p.create_date desc", array('Y', $post_type));
+    $query = $this->db->query("select p.*, i.* from post p, issue i where p.issue=i.idissue and p.list_status = ? and p.post_type=? order by p.postorder", array('Y', $post_type));
 
     return $query->result(); 
       
@@ -146,7 +146,7 @@ class Post extends CI_Model
   function latestissue()
   {
 
-    $query = $this->db->query("select * from post where issue = (select max(idissue) from issue) order by publish_date desc", array('N', ''));
+    $query = $this->db->query("select * from post where issue = (select max(idissue) from issue) order by postorder asc", array('N', ''));
 
     return $query->result();
   }

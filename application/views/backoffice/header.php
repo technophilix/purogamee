@@ -43,7 +43,8 @@
   <script src="<?php echo base_url() ?>includes/jodit/build/jodit.min.js"></script>
   <link rel="icon" type="image/png" href="<?php echo base_url() . $this->Site->getSitedata()->logo ?>" />
 
-
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://www.gstatic.com/charts/loader.js"></script>
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
